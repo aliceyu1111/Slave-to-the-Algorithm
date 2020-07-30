@@ -61,3 +61,25 @@ Her project **“The Changing Room”** where through an AI software installatio
 
 **Video of installation** https://player.vimeo.com/video/207014536
 
+#### Playing around with Processing 
+
+Here I was playing around with some of the codes from the examples in Processing. I wanted to see how much I could alter something by just simply adjusting numbers in the code. The results were very interesting and it was just a lot of fun to see the end result. Below are just some screenshots :) 
+
+###### BEFORE
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/DepthSort%20Before.png >
+
+###### AFTER
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/DepthSort%20After.png >
+
+
+###### BEFORE
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/DynamiteParticles%20Before.png >
+
+###### AFTER
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/DynamiteParticles%20After.png >
+
+I tried to slow down the particles and write my name hehe
