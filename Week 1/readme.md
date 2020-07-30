@@ -15,3 +15,16 @@ In summary generative design is “thinking about designing not the object – b
 **So, what's the difference between the two?** 
 
 Reading from Karen’s notes, to me this makes the most sense. “parametric design is dependent on variables that alter the geometry or other factors (like a template), while generative design creates new objects or visuals where there were not any before (as if you are growing something
+
+
+### Class Activity 1: Roll The Dice 
+
+The results of this challenge for me were quite interesting, in terms of how illiterate and messy it was. For some reason my dice kept on landing on the option where I had to either draw with my mouth or elbow. The results were very much distorted but kind of interesting. I guess you could say this is what happens when you try to input an algorithm that is either incorrect or too much for the computer to handle so therefore it lags and creates a jumble of messy lines.  
+
+And, don’t even get me started on drawing with your knees option as that was just impossible! This was not due to my lack of trying, because I tried and failed multiple times. 
+
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Activity%201%20-%20Roll%20The%20Dice%20Rules%20Chart.png >
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Activity%201%20-%20Roll%20The%20Dice%20Results.png >
+ 
+ Also, if anyone is wondering what the bottom left corner was meant to be. They were supposed to be hands, but the dice landed twice on drawing hands with my mouth. 
