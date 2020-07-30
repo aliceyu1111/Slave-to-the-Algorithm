@@ -28,3 +28,25 @@ And, don’t even get me started on drawing with your knees option as that was j
 <img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Activity%201%20-%20Roll%20The%20Dice%20Results.png >
  
  Also, if anyone is wondering what the bottom left corner was meant to be. They were supposed to be hands, but the dice landed twice on drawing hands with my mouth. 
+ 
+ ### Artist Research
+ 
+ _**Artist 1: Sougwen Chung**_
+ 
+I really admire the fluidity of her artworks and her exploration of human and non-human collaborations which draws upon the notion around how instead of seeing ai technology replacing humans, we can and should be working alongside them instead. I think this is evident now than ever with Covid-19 as we rely and incorporate more and more of technology into our daily lives. 
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Artist%201-%20Sougwen%20Chung.jpg >
+
+
+**Artwork Reference:** https://sougwen.com/project/artefact1 
+
+**TED Talk:** https://www.youtube.com/watch?v=q-GXV4Fd1oA 
+
+_**Artist 2: Jon McCormack**_
+
+One of his artwork series titled **“Morphgenesis Series”** explores the idea of biology vs technology. I find it quite interesting to see how with a computer software based on biological models of development we can create and alter the structure and form of plants through controlled digital DNA. It’s fun to see what's possible through the invention of technology that would have otherwise been impossible. Also solidifies what Karen mentioned in class of how the outcome of parametric and generative design can be anything really such as photography which is one area I never thought about until now. 
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Artist%202%20-%20Jon%20McCormack-%20Image%201.png >
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Artist%202%20-%20Jon%20McCormack-%20Image%202.jpg >
+
+**Artwork Reference:** https://jonmccormack.info/artworks/morphogenesis-series/ 
