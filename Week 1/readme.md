@@ -50,3 +50,14 @@ One of his artwork series titled **“Morphgenesis Series”** explores the idea
 <img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Artist%202%20-%20Jon%20McCormack-%20Image%202.jpg >
 
 **Artwork Reference:** https://jonmccormack.info/artworks/morphogenesis-series/ 
+
+_**Artist 3: Lauren Lee McCarthy**_
+
+Her project **“The Changing Room”** where through an AI software installation, it invites audiences to browse through and select various types of emotions. Through this the technology system will create an environment matching that emotion through the use of lights, visuals, sound and text. I love how interactive this installation was and how it poses the question of the influence and power technology has over us.  It got me thinking to how much does technology control us and how susceptible are we to those changes. As technology progresses how much will it continue to control us?  
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Artist%203%20-%20Lauren%20Lee%20McCarthy%20-%20The%20Changing%20Room.jpg >
+
+**Artwork Reference:** https://lauren-mccarthy.com/The-Changing-Room
+
+**Video of installation** https://player.vimeo.com/video/207014536
+
