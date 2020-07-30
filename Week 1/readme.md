@@ -1,3 +1,5 @@
+# Week 1
+
 Having absolutely zero knowledge of the coding world, I’m actually really excited into developing my understanding of the processes involved and hopefully through this studio will alter the way I think about digital design and how it can be incorporated into my future artworks.  
 
 During class time, Karen mentioned the terms generative and parametric design, which were completing foreign words to me. So, I decided to do some further reading on these terms to further strengthen my understanding. It quickly became quite clear that the dominate industries who use generative and parametric design to their advantage are engineering and architectural designers.  
@@ -12,4 +14,4 @@ In summary generative design is “thinking about designing not the object – b
 
 **So, what's the difference between the two?** 
 
-Reading from Karen’s notes, to me this makes the most sense. “parametric design is dependent on variables that alter the geometry or other factors (like a template), while generative design creates new objects or visuals where there were not any before (as if you are growing something). 
+Reading from Karen’s notes, to me this makes the most sense. “parametric design is dependent on variables that alter the geometry or other factors (like a template), while generative design creates new objects or visuals where there were not any before (as if you are growing something
