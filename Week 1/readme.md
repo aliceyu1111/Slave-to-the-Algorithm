@@ -72,7 +72,7 @@ Here I was playing around with some of the codes from the examples in Processing
 ###### AFTER
 
 <img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/DepthSort%20After.png >
-
+###### original code of Depth sorting example by Jakub Valtar 
 
 ###### BEFORE
 
@@ -82,4 +82,5 @@ Here I was playing around with some of the codes from the examples in Processing
 
 <img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/DynamiteParticles%20After.png >
 
+###### original code of DynamicIntermediate Particles by unknown name within the examples section of Processing
 I tried to slow down the particles and write my name hehe
