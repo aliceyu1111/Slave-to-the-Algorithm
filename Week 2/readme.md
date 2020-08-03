@@ -134,3 +134,96 @@ void mousePressed(){
   fill(0);
  rect (mouseX, mouseY, 30, 30); 
 }
+
+### SnowMan with Moving Arms
+
+I also wanted to attempt another thing that Karen showed us in the class which was moving the arms of a character around. I created this snowman and incorporate the use of a triangle, which was quite tricky when trying to figure out where the points would go. Then I had a look at the code that Karen remixed for Maddy’s self-portrait and attempted it myself. And it worked! 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%202/Snowman%201.png" width = "250" />
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%202/Snowman%203.png" width = "250" />
+
+**The Code**
+// snowman with semaphor arms 1/08/20 by Alice Yu
+
+void setup (){
+  size (500, 500);
+  background (0);
+}
+
+void draw (){
+  background (0);
+  noStroke();
+  fill (255);
+  ellipse (250, 200, 100, 100);
+  ellipse (250, 320, 150, 150);
+  fill (255, 165, 0);
+  triangle (235, 210, 250, 220, 255, 210); //ngl this was a happy accident after 30000 trial errors
+  fill (27);
+  ellipse (230, 190, 10, 10); //eyes
+  ellipse (270, 190, 10, 10); //eyes
+  ellipse (250, 235, 5, 5);
+  ellipse (245, 234, 5, 5);
+  ellipse (255, 234, 5, 5);
+  ellipse (260, 232, 5, 5);
+  ellipse (240, 232, 5, 5);
+  ellipse (235, 230, 5, 5);
+  ellipse (265, 230, 5, 5);
+  
+  stroke (139, 69, 19);
+  line(mouseX/2.5, mouseX/1.5,180, 300); //left arm
+  line (500-mouseY/2.5, mouseY/1.5, 320, 300); //right arm
+  
+  //line (180, 300, 130, 250); //left arm
+  //line (320, 300, 360, 250); //right arm
+  
+}
+
+**Animal Creation with the 24 Hr Challenge**
+
+Also, for the 24hr Challenge I tried to create a set of rules for creating a unique animal made out of shapes that I would create on Processing. This wasn’t my favorite result and I did improvise on the tail because I realized I didn’t know what the code was for squiggly line. Again, the triangles were little annoying to figure out but we got there in the end!  
+
+<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%202/Animal%20Creation%20.png >
+
+**The Code**
+//Animal Creation made 31/7/2020 by Alice Yu
+
+void setup (){
+  size (500, 500);
+  background (0);
+}
+
+void draw (){
+  noStroke();
+  fill (255);
+ rect (195, 100, 100, 100);
+ ellipse (245, 250, 50, 200);
+ 
+ fill (90);
+ rect (220, 130, 10, 15); //head
+ rect (250, 130, 30, 30);
+ rect (235, 170, 10, 15);
+ fill (30, 70, 100);
+ triangle (220, 110, 200, 120, 190, 40); //ears
+ fill (90, 285, 20);
+ triangle (270, 120, 300, 20, 380, 60); //ears
+ fill (200, 20, 190);
+ rect (270, 250, 15, 15); //legs
+ rect (270, 270, 15, 15); //legs
+ rect (265, 290, 15, 15); //legs
+ rect (260, 310, 15, 15); //legs
+ 
+ rect (205, 250, 15, 15); //legs
+ rect (205, 270, 15, 15); //legs
+ rect (210, 290, 15, 15); //legs
+ rect (215, 310, 15, 15); //legs
+ stroke (mouseX/2, mouseY/2, (mouseX+mouseY)/4);
+ line (mouseX, mouseY, 260, 320); 
+// stroke (20);
+// line (235,160, -10, 1);
+ //fill (30);
+ //arc (250, 170, 15, 15, 0,HALF_PI);
+}
+ void keyPressed (){
+ 
+}
