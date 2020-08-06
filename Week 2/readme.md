@@ -227,3 +227,14 @@ void draw (){
  void keyPressed (){
  
 }
+
+### More Artist Research
+
+**Artist: Jansz Jurek**
+
+I love how intricate and detailed his artworks are, especially in his series Papilarnie. It got me thinking about how this pandemic has forced us into the virtual world so much so that we have a stronger online presence than ever before. It’s as if our bodies and minds have molded and intertwined with the algorithms of our social media presence, and facetimes or zoom calls. This kind of makes me wonder of how our non – virtual beings are being formed and shaped by what we feed into an algorithm. By the end of this pandemic most of us will have a fully shaped virtual replica of us, mirroring our every move and possibly knows more about ourselves than we do. Kind of creepy when you really think about it. Will we be walking around like dummies on a leash whilst our superior non – virtual replicas feed us with their power? 
+
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%202/Janusz%20Jurek.jpg" width = "250" />
+
+###### Artwork Reference: https://www.behance.net/gallery/30852511/Papilarnie-III 
