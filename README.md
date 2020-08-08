@@ -1,3 +1,3 @@
 # Slave-to-the-Algorithm
-### Hello I have a name 
-###### It's Alice :)
+### Hello my name is 
+###### Alice :)
