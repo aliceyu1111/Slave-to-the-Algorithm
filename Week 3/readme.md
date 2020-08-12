@@ -49,3 +49,20 @@ Within an hour we were asked to create our own bio technological drawings just t
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%201.jpg" width ="400" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%202.jpg" width ="400" />
+
+
+### Further Artist Research
+
+**Artist Refik Anadol** 
+
+Refik’s is an Los Angeles based artist whose work operates in site-specific public art with parametric data sculpture approach. 
+
+In his digital artwork “Interconnected”, its created through the use of operational data at Charlotte Douglas International Airport. The data that feeds the artwork include global and regional air-traffic tracking software, airline flight information, baggage handling systems, and parking and ground shuttle transportation throughout the airport. This artwork is ever-changing and is a response to the real – time responses to a dynamic flow of data. 
+
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/CLT-Data-Plotings.003-2880x1620.jpeg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Interconnected-Photo-08-2880x1920.jpg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Screen-Shot-2020-04-12-at-5.06.20-PM-2880x1620-2880x1620.jpg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Screen-Shot-2020-04-12-at-5.07.52-PM-2880x1620-2880x1620.jpg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Screen-Shot-2020-04-12-at-5.08.27-PM-2880x1623-2880x1623.jpg" width ="400" />
+
