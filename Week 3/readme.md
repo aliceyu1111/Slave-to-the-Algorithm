@@ -66,3 +66,5 @@ In his digital artwork “Interconnected”, its created through the use of oper
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Screen-Shot-2020-04-12-at-5.07.52-PM-2880x1620-2880x1620.jpg" width ="400" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Screen-Shot-2020-04-12-at-5.08.27-PM-2880x1623-2880x1623.jpg" width ="400" />
 
+###### Image Reference: https://refikanadolstudio.com/projects/ 
+
