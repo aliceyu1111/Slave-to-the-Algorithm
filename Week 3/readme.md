@@ -61,7 +61,7 @@ Within an hour we were asked to create our own bio technological drawings just t
 
 ### Further Artist Research (because I wanna know more!!!)
 
-**Artist Sam van Doorn**
+**Artist: Sam van Doorn**
 
 Growing up I would literally spend hours and hours on the computer playing pinball. Now seeing Doorn turning this 90’s gaming machine into creating these pieces of artwork is pretty astounding and I’m kicking myself for not having thought of this idea. I like how every artwork has a different outcome due to randomness and unpredictability of the movement of the ball. 
 
@@ -73,7 +73,7 @@ Growing up I would literally spend hours and hours on the computer playing pinba
 ###### Image Reference: http://thethirdvoid.com/?p=507 
 
 
-**Artist Refik Anadol** 
+**Artist: Refik Anadol** 
 
 Refik’s is an Los Angeles based artist whose work operates in site-specific public art with parametric data sculpture approach. 
 
@@ -90,7 +90,7 @@ I really like the results of this project and how interactive it is. It’s inte
 
 ###### Image Reference: https://refikanadolstudio.com/projects/ 
 
-**Artist Brian House**
+**Artist: Brian House**
 
 This project consists of the idea of how our habitual travel patterns have inherent musical qualities. House created a 11min vinyl record that features a continuous year of his location-tracking data. I found this project to be so smart and unique and a very interesting way of representing our location tracking data. 
 
