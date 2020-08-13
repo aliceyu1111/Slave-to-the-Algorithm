@@ -71,6 +71,8 @@ Refik’s is an Los Angeles based artist whose work operates in site-specific pu
 
 In his digital artwork “Interconnected”, its created through the use of operational data at Charlotte Douglas International Airport. The data that feeds the artwork include global and regional air-traffic tracking software, airline flight information, baggage handling systems, and parking and ground shuttle transportation throughout the airport. This artwork is ever-changing and is a response to the real – time responses to a dynamic flow of data. 
 
+I really like the results of this project and how interactive it is. It’s interesting to see what kinds of artwork can be created through the use of simple data analysis.  
+
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/CLT-Data-Plotings.003-2880x1620.jpeg" width ="400" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Interconnected-Photo-08-2880x1920.jpg" width ="400" />
