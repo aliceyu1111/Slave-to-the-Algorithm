@@ -2,6 +2,20 @@
 
 This week we explored the notion of bio technological drawings and had a look at some artists. I decided to do some further research into these artists in hopes it will inspire me for my upcoming assignments. 
 
+### Artist explored in class 
+
+Richard Dawson, The Tree Drawing Machine, 2017 
+
+Tim Knowles, Tree Drawings 
+
+Karina Smigla – Bobinska ADA – Human Collaborative Drawings 
+
+Joseph Griffiths, Drawing Machine #1, 2012 
+
+Robert Howsare 
+
+Margie Livenstein 
+
 **Artist: Tim Knowles**
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Tim%20Knowles%20Ink%20on%20Paper%20IoP_Xfold1.jpg" width ="400" /> 
