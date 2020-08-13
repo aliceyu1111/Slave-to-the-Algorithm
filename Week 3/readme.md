@@ -82,3 +82,15 @@ I really like the results of this project and how interactive it is. It’s inte
 
 ###### Image Reference: https://refikanadolstudio.com/projects/ 
 
+**Artist Brian House**
+
+This project consists of the idea of how our habitual travel patterns have inherent musical qualities. House created a 11min vinyl record that features a continuous year of his location-tracking data. I found this project to be so smart and unique and a very interesting way of representing our location tracking data. 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Brian%20House%201.png" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Brian%20House%202.png" width ="400" />
+
+###### Project Title: Quotidian Record 
+
+###### Image Reference: http://thethirdvoid.com/?p=749  
+
+###### More about work can be found here: https://www.wired.com/2013/07/a-years-worth-of-location-data-transformed-into-a-beautiful-record/ 
