@@ -14,7 +14,7 @@ Joseph Griffiths, Drawing Machine #1, 2012
 
 Robert Howsare 
 
-Margie Livenstein 
+Margie Livingston 
 
 **Artist: Tim Knowles**
 
