@@ -51,7 +51,19 @@ Within an hour we were asked to create our own bio technological drawings just t
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%202.jpg" width ="400" />
 
 
-### Further Artist Research
+### Further Artist Research (because I wanna know more!!!)
+
+**Artist Sam van Doorn**
+
+Growing up I would literally spend hours and hours on the computer playing pinball. Now seeing Doorn turning this 90’s gaming machine into creating these pieces of artwork is pretty astounding and I’m kicking myself for not having thought of this idea. I like how every artwork has a different outcome due to randomness and unpredictability of the movement of the ball. 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Sam%20van%20Doorn%201.jpeg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Sam%20van%20Doorn%202.jpeg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Sam%20van%20Doorn%203.jpeg" width ="400" />
+
+###### Project Title: STYN
+###### Image Reference: http://thethirdvoid.com/?p=507 
+
 
 **Artist Refik Anadol** 
 
