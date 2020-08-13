@@ -27,12 +27,6 @@ Another of Tim's Projects!
 ###### Image Reference: http://www.timknowles.co.uk/Default.aspx?tabid=294 
 Knowles also did conducted this project which jolted or sparked an idea for what I could propose in week 5. 
 
-**Idea 1** was creating a sound, vibration and motion piece of artwork based on films. So, we would be looking into the soundwaves and patterns of particular films and films genres and how they different from one another.  
-
-**Idea 2** was something that tracks the steps you walk and the path you take. So, like how google maps makes a route from one destination over another. So, the longer you stand at a place, the bigger the circle will become kind of like ink bleeding out on the paper. The longer it's on there the bigger the ink spot. Also, the speed of your walking will indicate the colour changes of the line. So, running would be a bright pink, whilst normal walking would be a light green. This could create an artwork, and everyone would have a slightly different result depending on their day to day life. 
-
- 
-
 Okay okay last one I promise but this seemed really cool! 
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Tim%20Knowles%20Balloon%20Drawing%201.jpg" width ="400" />
@@ -94,3 +88,14 @@ This project consists of the idea of how our habitual travel patterns have inher
 ###### Image Reference: http://thethirdvoid.com/?p=749  
 
 ###### More about work can be found here: https://www.wired.com/2013/07/a-years-worth-of-location-data-transformed-into-a-beautiful-record/ 
+
+
+# Assignment 2 Ideas
+
+**Idea 1:** Creating a sound, vibration and motion piece of artwork based on films. So, we would be looking into the soundwaves and patterns of particular films and films genres and how they different from one another.  
+
+**Idea 2:** Creating something that tracks the steps you walk and the path you take. So, like how google maps makes a route from one destination over another. So, the longer you stand at a place, the bigger the circle will become kind of like ink bleeding out on the paper. The longer it's on there the bigger the ink spot. Also, the speed of your walking will indicate the colour changes of the line. So, running would be a bright pink, whilst normal walking would be a light green. This could create an artwork, and everyone would have a slightly different result depending on their day to day life. 
+
+**Idea 3** The movement of our fingers/thumbs when we are scrolling on our phones/texting. Movement is used to create an abstract pattern. High pressure bigger strokes, low pressure, smaller strokes. The colours will change according to time of the day as well. Relates to the idea of the addiction to our phones, especially now with isolation and COVID19, we have more times to scroll through our phones. No one can tell us off essentially 
+
+**Idea 4:** Again, this idea circles around the area of our unhealthy attachment to our phones. A way to track the usage of our phones through the use of sounds and vibrations. Examples would be texting sounds, notification for different apps, phone calls, alarms, snooze buttons, accidently dropping it, and such and such. Commentating on how our phone dictates our lives. Does it control the way we function and do things in our daily lives and to what extent? So, I had the idea of how these sounds and notification could be represented in the form of a life line. This idea reminded me of how many times people have gotten into car accidents due to an obsession of checking a notification whilst driving. So, it begs the question, how much is a notification worth? Was it worth risking your life for it? Have our phones caused us to become that oblivious to our natural habitats that its literally causing us to be placed in dangerous situations. Are our phones doing more harm than good? If our phones ceased to exist, do we? So basically, the sounds or vibrations of the notifications, suggests the heartbeat of our phones. It's as if our phones are an extension of us and who we are now as a society.  
