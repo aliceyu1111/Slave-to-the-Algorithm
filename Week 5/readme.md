@@ -88,3 +88,16 @@ After my presentation, Karen mentioned that I should look into an Australian art
 https://michaelagleave.com/a-galaxy-of-suns-video/ You can check out the video here! 
 
 Basically, the project involves tracking the earths motions through space and records our position in relation to space and the stars. From the data gathered, it then creates sounds and visual ques that are specific to that location in space and time. It’s so interesting and the sounds and rhythms produced are so calming as well.  
+
+
+**So, for this week I was a bit lost from where do I go from here**
+
+I decided to have a look on Open Processing to get more ideas of how other people have used sound within Processing and more importantly I guess what type of code they inputted. This might help with how I could use those codes and alter it to adjust to my future design experiments and prototypes for my project.  
+
+### Example #1
+I like how whenever you click on the screen, there is a different pitch and the colour of the background changes as well as the size of the circle. Simple yet pretty cool
+https://www.openprocessing.org/sketch/935749 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%201.png" width ="300" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%202.png" width ="300" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%203.png" width ="300" />
