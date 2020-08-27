@@ -11,3 +11,18 @@ It’s interesting to see the results now as well, since I believe they vastly d
 I think I would like to compare these results to maybe the results after lockdown and as things start to become more “normal” if that were to ever happen. But as of this moment I think I'll stick with these results and see what we could do with them from there.  
 
 The data was recorded from Sunday 16th of August to Sunday 23rd of August 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/Notifications%20Data%20for%201%20week.png" width ="500" />
+
+There was a big spike on Thursday and Saturday, but the data didn’t really follow any pattern as the results for me seemed quite random. The notifications would be based on what was happening in my life and my friend's life at that particular given day, which would lead to certain amount of notifications. For Thursday and Saturday, I didn’t initiate any sort of major events or surprises that would lead to this many notifications, but some exciting things did happen to my friends lives such as a change in hairstyle or a discussion on topics that their passionate about.   
+
+Also, I did unmute my notifications from vibrate to ringtone, and I realized that each app has their own unique notification sound, some a bit louder than others, and some a bit more subtle and calming. My email notification sound had the best sound to me since it sounded less “urgent” compared to my snapchat and messenger's app did. I did eventually turn it back to vibrate since the alerts were starting to annoy me like a lot! And it was extremely distracting when you are trying to focus on everything but your phone.  
+
+### Artists Inspiration
+**Micheala Gleave**
+
+After my presentation, Karen mentioned that I should look into an Australian artist called Micheala Gleave. Upon looking at her previous works, the one that stood out the most to me and I believe applies to my project concept the most was “A Galaxy of Suns”  
+
+https://michaelagleave.com/a-galaxy-of-suns-video/ You can check out the video here! 
+
+Basically, the project involves tracking the earths motions through space and records our position in relation to space and the stars. From the data gathered, it then creates sounds and visual ques that are specific to that location in space and time. It’s so interesting and the sounds and rhythms produced are so calming as well.  
