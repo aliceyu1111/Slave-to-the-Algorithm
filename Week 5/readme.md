@@ -96,8 +96,21 @@ I decided to have a look on Open Processing to get more ideas of how other peopl
 
 ### Example #1
 I like how whenever you click on the screen, there is a different pitch and the colour of the background changes as well as the size of the circle. Simple yet pretty cool
-https://www.openprocessing.org/sketch/935749 
+###### Reference: https://www.openprocessing.org/sketch/935749 
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%201.png" width ="300" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%202.png" width ="300" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%203.png" width ="300" />
+
+### Example #2
+There isn’t any sound to this one, but I love how mesmerizing this animation was. I thought I could potentially adapt this make it more hypnotic. (referring to how screens on our phones are potentially hypnotizing us) Also thought how might the colours change according to different notification ringtones and how might the blob grow due to amount of notifications... 
+###### Reference: https://www.openprocessing.org/sketch/838545 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%204.png" width ="300" />
+
+### Eaxmple #3
+This was another interesting one for my project. So, the volume and sound changes as your move the mouse around.
+###### Reference: https://www.openprocessing.org/sketch/398400 
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%205.png" width ="300" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%206.png" width ="300" />
