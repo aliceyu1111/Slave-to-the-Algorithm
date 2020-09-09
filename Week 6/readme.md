@@ -13,7 +13,7 @@ During the second half of the class, Karen showed us how to use P5.js which is d
 
 **As for further ideas development, I firstly wrote down a list of things that I think represent what my project is.**  
 
-- (x) No patterns - because notifications come at random times 
+-  No patterns - because notifications come at random times 
 
 Complete randomness 
 
