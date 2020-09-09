@@ -6,6 +6,9 @@ Also, during the first half of the class, Andy got us to quickly do a paper prot
 
 During the second half of the class, Karen showed us how to use P5.js which is different to Java. We learnt how to incorporate sound into a simple piece of artwork, which was actually pretty cool! Although the annoying thing I’m still trying to get over is the fact that if you enter one word or letter incorrectly your whole code doesn’t work. Super frustrating, but I’m learning to take deep breaths in-between. (Okay and some meditation in-between as well heheh) It was fun getting to learn how to incorporate sound and how we can make that volume of the sound affect and change the circle shape within the artwork. This is something I might try to incorporate into my code later down the track. 
 
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%201.HEIC" width ="500" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%202.HEIC" width ="500" />
+
 ### Idea Time!!!!!!
 
 **As for further ideas development, I firstly wrote down a list of things that I think represent what my project is.**  
@@ -64,3 +67,7 @@ Every drop colour will be different depending on what app it came from.
 Here is a simple sketch that I drew out to help with my explanation. 
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Untitled_Artwork.jpg" width ="500" />
+
+### Artist Inspiration
+
+
