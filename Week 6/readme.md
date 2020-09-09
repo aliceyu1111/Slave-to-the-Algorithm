@@ -6,8 +6,8 @@ Also, during the first half of the class, Andy got us to quickly do a paper prot
 
 During the second half of the class, Karen showed us how to use P5.js which is different to Java. We learnt how to incorporate sound into a simple piece of artwork, which was actually pretty cool! Although the annoying thing I’m still trying to get over is the fact that if you enter one word or letter incorrectly your whole code doesn’t work. Super frustrating, but I’m learning to take deep breaths in-between. (Okay and some meditation in-between as well heheh) It was fun getting to learn how to incorporate sound and how we can make that volume of the sound affect and change the circle shape within the artwork. This is something I might try to incorporate into my code later down the track. 
 
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%201.HEIC" width ="500" />
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%202.HEIC" width ="500" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%201.png" width ="500" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%202.png" width ="500" />
 
 ### Idea Time!!!!!!
 
@@ -70,4 +70,23 @@ Here is a simple sketch that I drew out to help with my explanation.
 
 ### Artist Inspiration
 
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%201.png" width ="500" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%202.png" width ="500" />
+###### Image References: https://callenschaub.com/pages/about 
 
+As I was thinking of my idea, I realised where I got the inspiration from! Acrylic paint that’s trending on TicTok. I love how colourful and playful Schaubs artworks are and not two are the same. I also enjoyed how hypotising these works are and how mesmersing it would look and feel to actually watch it being made in the process.  
+
+
+This idea is okay, but it just seems as though it’s nothing really new. I see it all the time on TikTok and Instagram. I feel like I could push it to make it represent more of me and my data.  
+
+So how can I turn this idea into a digital artform???  
+
+Similar concept as Idea 2, but, 
+
+Maybe on processing, the longer the colour is on the canvas, the more it starts to form the notification words? 
+
+Maybe on processing, the longer the colour is on the canvas, colour deepens, gets blurrier, splatters more, starts melting off the canvas page? 
+
+The starting point of each drip is located on a different position to make it more interesting. The point will be determined according to time of day notification. Clock thing 
+
+The sound or intensity of each notification will affect the size and opacity of the drops of colour onto the canvas? 
