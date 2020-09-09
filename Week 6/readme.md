@@ -13,29 +13,29 @@ During the second half of the class, Karen showed us how to use P5.js which is d
 
 **As for further ideas development, I firstly wrote down a list of things that I think represent what my project is.**  
 
--  No patterns - because notifications come at random times 
+- No patterns, because notifications come at random times 
 
-Complete randomness 
+- Complete randomness 
 
-Distractions  
+- Distractions  
 
-Avoidance 
+- Avoidance 
 
-Alert!!! 
+- Alert!!! 
 
-Alarming! - some more than others ngl 
+- Alarming!, some more than others ngl 
 
-Places on emotions 
+- Places on emotions 
 
-Hypnotizing 
+- Hypnotizing 
 
-Brainwashed 
+- Brainwashed 
 
-Controlled 
+- Controlled 
 
-Data 
+- Data 
 
-Overwhelming ??? 
+- Overwhelming ??? 
 
 
 **1st Idea???** 
@@ -52,15 +52,15 @@ The more times the notification appears in a row from the same app, the color co
 
 Idea of a spinning record player or just a circular spinning artboard. The more notifications that appear the faster it spins and the more colour drips onto the CD cover. By the end have a colourful arrangement of colours . The spinning would also act as a hypnotizing effect as well.  
 
-One piece would take up to around 24 mins.  
+- One piece would take up to around 24 mins.  
 
-Every hr has x amount of notifications. So therefore, every 1min = 1hr of the day.  
+- Every hr has x amount of notifications. So therefore, every 1min = 1hr of the day.  
 
-1min = speed of turning wheel depending on how many notifications occur within an hr. If there is a lot, the faster it spins, and vice versa.  
+- 1min = speed of turning wheel depending on how many notifications occur within an hr. If there is a lot, the faster it spins, and vice versa.  
 
-1min = number of drops, again depending on number of notifications 
+- 1min = number of drops, again depending on number of notifications 
 
-Every drop colour will be different depending on what app it came from.  
+- Every drop colour will be different depending on what app it came from.  
 
  
 
@@ -84,10 +84,10 @@ So how can I turn this idea into a digital artform???
 
 Similar concept as Idea 2, but, 
 
-Maybe on processing, the longer the colour is on the canvas, the more it starts to form the notification words? 
+- Maybe on processing, the longer the colour is on the canvas, the more it starts to form the notification words? 
 
-Maybe on processing, the longer the colour is on the canvas, colour deepens, gets blurrier, splatters more, starts melting off the canvas page? 
+- Maybe on processing, the longer the colour is on the canvas, colour deepens, gets blurrier, splatters more, starts melting off the canvas page? 
 
-The starting point of each drip is located on a different position to make it more interesting. The point will be determined according to time of day notification. Clock thing 
+- The starting point of each drip is located on a different position to make it more interesting. The point will be determined according to time of day notification. Clock thing 
 
-The sound or intensity of each notification will affect the size and opacity of the drops of colour onto the canvas? 
+- The sound or intensity of each notification will affect the size and opacity of the drops of colour onto the canvas? 
