@@ -72,6 +72,7 @@ Here is a simple sketch that I drew out to help with my explanation.
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%201.png" width ="500" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%202.png" width ="500" />
+
 ###### Image References: https://callenschaub.com/pages/about 
 
 As I was thinking of my idea, I realised where I got the inspiration from! Acrylic paint that’s trending on TicTok. I love how colourful and playful Schaubs artworks are and not two are the same. I also enjoyed how hypotising these works are and how mesmersing it would look and feel to actually watch it being made in the process.  
