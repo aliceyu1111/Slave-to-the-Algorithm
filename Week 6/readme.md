@@ -4,10 +4,12 @@ This week we touched base on what sort of area we would group ourselves in accor
 
 Also, during the first half of the class, Andy got us to quickly do a paper prototype of an arcade video game within 10mins. This was a super fun exercise and it got us think about how we can present our ideas through a paper prototype not only for this class, but for future projects as well. This prototype was based on Super Mario 
 
-During the second half of the class, Karen showed us how to use P5.js which is different to Java. We learnt how to incorporate sound into a simple piece of artwork, which was actually pretty cool! Although the annoying thing I’m still trying to get over is the fact that if you enter one word or letter incorrectly your whole code doesn’t work. Super frustrating, but I’m learning to take deep breaths in-between. (Okay and some meditation in-between as well heheh) It was fun getting to learn how to incorporate sound and how we can make that volume of the sound affect and change the circle shape within the artwork. This is something I might try to incorporate into my code later down the track. 
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%201.png" width ="500" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Paper%20Prototype%202.png" width ="500" />
+
+
+During the second half of the class, Karen showed us how to use P5.js which is different to Java. We learnt how to incorporate sound into a simple piece of artwork, which was actually pretty cool! Although the annoying thing I’m still trying to get over is the fact that if you enter one word or letter incorrectly your whole code doesn’t work. Super frustrating, but I’m learning to take deep breaths in-between. (Okay and some meditation in-between as well heheh) It was fun getting to learn how to incorporate sound and how we can make that volume of the sound affect and change the circle shape within the artwork. This is something I might try to incorporate into my code later down the track. 
 
 ### Idea Time!!!!!!
 
