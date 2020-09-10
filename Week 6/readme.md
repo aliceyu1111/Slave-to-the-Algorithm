@@ -11,6 +11,48 @@ Also, during the first half of the class, Andy got us to quickly do a paper prot
 
 During the second half of the class, Karen showed us how to use P5.js which is different to Java. We learnt how to incorporate sound into a simple piece of artwork, which was actually pretty cool! Although the annoying thing I’m still trying to get over is the fact that if you enter one word or letter incorrectly your whole code doesn’t work. Super frustrating, but I’m learning to take deep breaths in-between. (Okay and some meditation in-between as well heheh) It was fun getting to learn how to incorporate sound and how we can make that volume of the sound affect and change the circle shape within the artwork. This is something I might try to incorporate into my code later down the track. 
 
+### Recap of things I learnt during this class in P5.js 
+
+ **P5.js** = different to Javascript! 
+**Java** = Good for standalone Apps 
+**Javascript** = Good for browser/webs 
+
+ 
+### How to P5.js and import/code sound 
+
+ 
+**createCanvas** - Automatically launches it to a webpage 
+
+**createCanvas (windowWidth, windowHeight)** - This makes it show full screen on your web browser window 
+
+**song = loadSound ('title of song');** - here we link our song to our variable 
+
+**preload is used for larger files usually** 
+
+**analyzer = new p5.Amplitude ();**  
+
+**analyzer.setInput (song);** 
+
+set analyzer to check amplitude 
+
+**var volume=analyzer.getLevel();** - this will exact the volume of the song that we have sent to the volumizer of the song  
+
+**volume=(volume*200)+10;** - using the volume in the song as a numeric value. We are not changing the volume of the song 
+
+**song.loop** 
+
+**song.noloop** 
+
+**song.play** 
+
+ 
+### How to imput sound: 
+
+Sketch – Import Library – P5.sound - This should be then added to our sketch library folder  
+Then Cmd+K to access the folder
+
+
+
 ### Idea Time!!!!!!
 
 **As for further ideas development, I firstly wrote down a list of things that I think represent what my project is.**  
