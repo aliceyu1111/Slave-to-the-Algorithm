@@ -14,7 +14,9 @@ During the second half of the class, Karen showed us how to use P5.js which is d
 ### Recap of things I learnt during this class in P5.js 
 
  **P5.js** = different to Javascript! 
+
 **Java** = Good for standalone Apps 
+
 **Javascript** = Good for browser/webs 
 
  
