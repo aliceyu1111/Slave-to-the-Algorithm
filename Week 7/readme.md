@@ -15,7 +15,7 @@ FUNCTION “Brushing Hair”
 
 DO brush knots out 
 
-IF hair is knot free – You don’t need to ask IF because hair is already knot free (redunct line) 
+~~IF hair is knot free~~ – You don’t need to ask IF because hair is already knot free (redunct line) 
 
 THEN braid hair down on right side 
 
