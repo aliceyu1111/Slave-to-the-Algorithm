@@ -5,7 +5,9 @@ This week we had a look through the paper prototypes of our classmates and to se
 For the second half of the class, Karen showed us how to use the sound to affect what was happening on screen. More specifically, how what we were saying was being translated into words on the computer screen, kind of like having our own subtitles.  
 
 
-I also discovered this https://www.openprocessing.org/sketch/935348 
+I also discovered this example on openprocessing
+![Alt Text](https://media.giphy.com/media/JEYDxiJ4F8PAjDBm32/giphy.gif)
+https://www.openprocessing.org/sketch/935348 
 
 I felt that this one was more on point to what I had imagined my project to look like, compared to the liquid simulation that I found. One of the main reasons was that the liquid simulation code did appear to be quite pixilated and slow in the process compared to this one, and I was struggling quite a bit in relation to trying to alter changes to suit my project as well.  
 
