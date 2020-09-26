@@ -13,4 +13,21 @@ I also tried to do "Random Circles with No Code" YouTube tutorial by Dan Shiffma
 
 ![Alt Text](https://media.giphy.com/media/ES96DRsPCDozKRFX2v/giphy.gif)
 
-I successfully managed to start a new sketch with mousePressed function and add text, but I'm still trying to figure out how I can get the days of the week to continously change, so from Sunday, to Monday and so forth. 
+I successfully managed to start a new sketch with mousePressed function and add text, but I'm still trying to figure out how I can get the days of the week to continously change, so from Sunday, to Monday and so forth. I also tried to randomise the circle sizes, trying both r and d and using the random (); function, but somehow this wasn't working! 
+
+
+### Saturday code WIP - STAGE 3 & 4 (code in Github Respository of Week 10)
+![Alt Text](https://media.giphy.com/media/YoUnNyHHx0lDDoRtEb/giphy.gif)
+
+So here I've managed to contain my circles within a circle shape. I used https://editor.p5js.org/ftobon@heartofla.org/sketches/SkBy9XP97 this help me do it. I also managed to pause the sketch with the keyPressed and noLoop(); function, which I found through https://p5js.org/reference/#/p5/noLoop. I thought this would be a good way for people to stop a sketch and see the notifications tracking data at a certain hour of the day. Now this is where the timer comes into play. Since I thought it was going to be a little tricky to display a 24 time within a clock, I thought a timer would be another good way of tracking the data. However, whislt I have found a couple of timers through the reference examples page on p5.js.org, none of them to be working when I attempted to code them into my code. Something I'm going to have to debug later on....
+
+![Alt Text](https://media.giphy.com/media/lXZs2deKRIy89ZkQ8J/giphy.gif)
+
+So with a little more researching and a looot of trials, I finally figured out how to change the days with just a mouse click!
+
+**Things still need to figure out:**
+1. Adapting my JSON code
+2. How to get timer on there and make it count from 1-24, not 24-1
+3. How to stop or loop back to Sunday, rather than it keep going when I mousepress...
+4. Consider trying to plot the circles according to their time of day when notifications are recieved
+
