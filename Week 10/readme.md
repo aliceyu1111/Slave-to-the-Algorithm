@@ -33,6 +33,5 @@ So with a little more researching and a looot of trials, I finally figured out h
 
 ### Sunday code WIP - WIP 7 & "Circle Size According to Number Value"
 Kind of a slow day today...
-I had a mini breakthrough in terms of getting the data to determine the size of my circles. I used this reference https://editor.p5js.org/bavazzanos1/sketches/Bkkdrs11M. Now the problem here is that when I isolated the JSON file (so instead of using loadJSON, i just typed one array of the data into the sketch folder just for practice) and it worked! But when I transfered this onto my normal sketch with loadJSON, it stopped working??? Still racking my brain as to how its stopped working....
-But the mini sketch to the working one is on my github respository labelled under "Circle Size According to Number Value"
+I had a mini breakthrough in terms of getting the data to determine the size of my circles. I used this reference https://editor.p5js.org/bavazzanos1/sketches/Bkkdrs11M and it worked! Yay! Now all I have to figure out is how to apply that to a bigger data set. I think I'm getting there... but not quite yet.
 
