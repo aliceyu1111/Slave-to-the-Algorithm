@@ -31,7 +31,7 @@ So with a little more researching and a looot of trials, I finally figured out h
 3. How to stop or loop back to Sunday, rather than it keep going when I mousepress...
 4. Consider trying to plot the circles according to their time of day when notifications are recieved
 
-### Sunday code WIP - WIP 7 & "Circle Size According to Number Value"
+### Sunday code WIP 
 Kind of a slow day today...
 I had a mini breakthrough in terms of getting the data to determine the size of my circles. I used this reference https://editor.p5js.org/bavazzanos1/sketches/Bkkdrs11M and it worked! Yay! Now all I have to figure out is how to apply that to a bigger data set. I think I'm getting there... but not quite yet.
 
