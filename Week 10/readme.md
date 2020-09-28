@@ -33,8 +33,8 @@ So with a little more researching and a looot of trials, I finally figured out h
 3. How to stop or loop back to Sunday, rather than it keep going when I mousepress...
 4. Consider trying to plot the circles according to their time of day when notifications are recieved
 
-# Sunday code 
-### WIP - WIP 7
+# Sunday code WIP
+### WIP 7
 Kind of a slow day today...
 I had a mini breakthrough in terms of getting the data to determine the size of my circles. I used this reference https://editor.p5js.org/bavazzanos1/sketches/Bkkdrs11M and it worked! Yay! Now all I have to figure out is how to apply that to a bigger data set. I think I'm getting there... but not quite yet. I also figured out that if I were to reference one particular array, I should name my hours oneam, rather than 1:00 am, because when I entered data.1:00am.instagram, the system freaked out and couldn't understand what I was doing, but when I changed it to data.oneam.instagram, it was fine. Don't know if they'll be helpful in the future...
 
@@ -48,6 +48,7 @@ So after a while of trying to incorporate the code I had in **Stage 4**, the cir
 So I decided to work on the code template that Karen gave me, and input the text and mousePressed and keyPressed function. Then I just arranged the way the circles where going to appear on the canvas randomly in the middle section of the screen. So far I think the effect looks not too bad. Obviously it's not a clear or as accurate representation of the data per hourly rate, but more of a generalisation. 
 
 ![Alt Text](https://media.giphy.com/media/plMBvkBY8kD1g5nKuP/giphy.gif)
+###### STAGE 7
 
 **Things I would like to still work on from today:**
 
@@ -57,6 +58,6 @@ So I decided to work on the code template that Karen gave me, and input the text
 My backplan was to display all my data throughout the week on one canvas. I am not the biggest fan of how this turned out. I think it looks way to overcrowded and overwhelming.
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Screen%20Shot%202020-09-29%20at%2012.37.02%20am.png" width ="300" /> 
-
+###### WIP 8
 
 
