@@ -33,5 +33,8 @@ So with a little more researching and a looot of trials, I finally figured out h
 
 ### Sunday code WIP 
 Kind of a slow day today...
-I had a mini breakthrough in terms of getting the data to determine the size of my circles. I used this reference https://editor.p5js.org/bavazzanos1/sketches/Bkkdrs11M and it worked! Yay! Now all I have to figure out is how to apply that to a bigger data set. I think I'm getting there... but not quite yet.
+I had a mini breakthrough in terms of getting the data to determine the size of my circles. I used this reference https://editor.p5js.org/bavazzanos1/sketches/Bkkdrs11M and it worked! Yay! Now all I have to figure out is how to apply that to a bigger data set. I think I'm getting there... but not quite yet. I also figured out that if I were to reference one particular array, I should name my hours oneam, rather than 1:00 am, because when I entered data.1:00am.instagram, the system freaked out and couldn't understand what I was doing, but when I changed it to data.oneam.instagram, it was fine. Don't know if they'll be helpful in the future...
 
+### Monday code WIP
+Okay so Karen sent over a template for me to work on. She solved out how to display my time through an hourly rate just by adding "hours" at the start of my JSON file, which actually makes a lot of sense haha.....
+"
