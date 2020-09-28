@@ -39,11 +39,11 @@ I had a mini breakthrough in terms of getting the data to determine the size of 
 Okay so Karen sent over a template for me to work on. She solved out how to display my time through an hourly rate just by adding "hours" at the start of my JSON file, which actually makes a lot of sense haha.....
 So after a while of trying to incorporate the code I had in **Stage 4**, the circles weren't arranging the way I wanted them to. So here's how they turned out...
 
-![Alt Text](https://media.giphy.com/media/lXZs2deKRIy89ZkQ8J/giphy.gif)  
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Screen%20Shot%202020-09-29%20at%2012.30.42%20am.png" width ="300" /> 
 
 So I decided to work on the code template that Karen gave me, and input the text and mousePressed and keyPressed function. Then I just arranged the way the circles where going to appear on the canvas randomly in the middle section of the screen. So far I think the effect looks not too bad. Obviously it's not a clear or as accurate representation of the data per hourly rate, but more of a generalisation. 
 
-![Alt Text](https://media.giphy.com/media/lXZs2deKRIy89ZkQ8J/giphy.gif)
+![Alt Text](https://media.giphy.com/media/plMBvkBY8kD1g5nKuP/giphy.gif)
 
 **Things I would like to still work on from today:**
 
@@ -52,7 +52,7 @@ So I decided to work on the code template that Karen gave me, and input the text
 2. How do I get my Monday, Tuesday and rest of the week days represented through this sketch with the mousePressed Function??? Do I create multiple JSON files or is it all in one JSON file??? Very confused on how to approach this atm.....
 My backplan was to display all my data throughout the week on one canvas. I am not the biggest fan of how this turned out. I think it looks way to overcrowded and overwhelming.
 
-![Alt Text](https://media.giphy.com/media/lXZs2deKRIy89ZkQ8J/giphy.gif)
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Screen%20Shot%202020-09-29%20at%2012.37.02%20am.png" width ="300" /> 
 
 
 
