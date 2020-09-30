@@ -60,4 +60,7 @@ My backplan was to display all my data throughout the week on one canvas. I am n
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Screen%20Shot%202020-09-29%20at%2012.37.02%20am.png" width ="300" /> 
 ###### WIP 8
 
+# Wednesday code WIP
+Ngl, but I didn't get very far today again. All I achieved was figuring out the method of writing my JSON file with the hours array nested within the day arrays. This took a while of trial and error on JSON validator, but eventually got there!
+Now all I need to figure out is how to adjust the code to work with this JSON file...........and how to change the data with a mousePressed Function..... 
 
