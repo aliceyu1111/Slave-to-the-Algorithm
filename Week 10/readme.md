@@ -72,6 +72,8 @@ I also figured out how to change the pattern of the design without it affecting 
 
 **The next step is figuring out how to change the data along with changing the text days as well. So far my data is only showing one day's worth of data.**
 But here is how the patterns all look!
+
+
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Sunday%20Data.png" width ="300" /> 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Monday%20Data.png" width ="300" /> 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2010/Tuesday%20Data.png" width ="300" /> 
