@@ -64,7 +64,8 @@ My backplan was to display all my data throughout the week on one canvas. I am n
 Ngl, but I didn't get very far today again. All I achieved was figuring out the method of writing my JSON file with the hours array nested within the day arrays. This took a while of trial and error on JSON validator, but eventually got there!
 Now all I need to figure out is how to adjust the code to work with this JSON file...........and how to change the data with a mousePressed Function..... 
 
-# Thursday code WIP
+# Thursday code WIP 
+###### STAGE 10 BUTTON
 Okay so today, I figured out how to adjust the code to work my JSON file. Turns out it was pretty simple actually, just needed a little more thinking!
 I also figured out how to change the days text with a drop down option, which I followed using this example https://editor.p5js.org/aferriss/sketches/SJtxrLp3M
 I also figured out how to change the pattern of the design without it affecting days. I used this to help https://p5js.org/reference/#/p5/createButton
