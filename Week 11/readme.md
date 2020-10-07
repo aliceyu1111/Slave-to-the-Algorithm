@@ -22,4 +22,5 @@ However when I adjusted the sizes in my code, the pattern seemed to look much mo
 **STAGE 14 SLIDER COLOUR CHANGE**
 ![Alt Text](https://media.giphy.com/media/9tReCmaNAnl4PIAJ0O/giphy.gif)
 
+I used these to help me with the code https://p5js.org/examples/hello-p5-interactivity-2.html and https://editor.p5js.org/aferriss/sketches/ryBzOKMQm
 
