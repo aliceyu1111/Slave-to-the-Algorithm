@@ -1,8 +1,11 @@
 # Week 11
 
-After receiving the code that Karen fixed for me, things were running smoothly once again. The data was able to change according to the days! Yipeee
+# Feedback from Week 10
 
 After speaking with Andy during our class breakout rooms, he suggested I remove all the clutter, such as the title of the days on the bottom and make the pattern more the focal point and larger across the canvas. He also suggested that I change up the colours a bit more to have more contrast, which is something I'll also have a play around with. Since my project was to make an artwork from the data, was it really necessary to put other info on the canvas, when it could be placed in a short description underneath the artwork. 
+
+# Progress for thie week!
+After receiving the code that Karen fixed for me, things were running smoothly once again. The data was able to change according to the days! Yipeee
 
 For this week, since majority of my code is about finished, I wanted to add and play with it more. At the moment I do feel as though it is a bit static for the viewer, as all they can do it change the pattern from a button or just change the days data. I wanted there to be more an interactive perspective, which is something I hadn't really thought about until now. With the interactive element, the artwork would be unique to them only. So I've decided to incorporate the use of sliders in my work. 
 
