@@ -4,7 +4,20 @@
 
 After speaking with Andy during our class breakout rooms, he suggested I remove all the clutter, such as the title of the days on the bottom and make the pattern more the focal point and larger across the canvas. He also suggested that I change up the colours a bit more to have more contrast, which is something I'll also have a play around with. Since my project was to make an artwork from the data, was it really necessary to put other info on the canvas, when it could be placed in a short description underneath the artwork. 
 
-# Progress for thie week!
+### Goals for this Week!
+1. Decluttered all the unnecessary information on the canvas and make the pattern fill up more space
+2. Get Karen to help me with my code in terms of the data visualisation changing whenever I selected the days. So far it's stuck on one day only
+3. Understand the edits Karen made to my code and why
+4. Include sliders within my code so the artwork becomes more interactive
+5. Add a save image button
+6. Experiment with using different colours
+7. Include a pause button instead of keyPressed function
+8. Consider doing a landing page before diving into the artwork. Good way of introducing the project and giving it more of a backstory
+9. Design a logo for the project
+10. Design a hero image for the project
+
+
+# Progress for the week!
 After receiving the code that Karen fixed for me, things were running smoothly once again. The data was able to change according to the days! Yipeee
 
 For this week, since majority of my code is about finished, I wanted to add and play with it more. At the moment I do feel as though it is a bit static for the viewer, as all they can do it change the pattern from a button or just change the days data. I wanted there to be more an interactive perspective, which is something I hadn't really thought about until now. With the interactive element, the artwork would be unique to them only. So I've decided to incorporate the use of sliders in my work. 
