@@ -4,7 +4,7 @@
 
 After speaking with Andy during our class breakout rooms, he suggested I remove all the clutter, such as the title of the days on the bottom and make the pattern more the focal point and larger across the canvas. He also suggested that I change up the colours a bit more to have more contrast, which is something I'll also have a play around with. Since my project was to make an artwork from the data, was it really necessary to put other info on the canvas, when it could be placed in a short description underneath the artwork. 
 
-### Goals for this Week!
+### Goals For This Week!
 1. Decluttered all the unnecessary information on the canvas and make the pattern fill up more space
 2. Get Karen to help me with my code in terms of the data visualisation changing whenever I selected the days. So far it's stuck on one day only
 3. Understand the edits Karen made to my code and why
@@ -15,6 +15,7 @@ After speaking with Andy during our class breakout rooms, he suggested I remove 
 8. Consider doing a landing page before diving into the artwork. Good way of introducing the project and giving it more of a backstory
 9. Design a logo for the project
 10. Design a hero image for the project
+11. Write an Artist Statement!
 
 
 # Progress for the week!
@@ -48,3 +49,8 @@ I started to think about a landing page to give a little introduction into my ar
 I also designed a logo for this project as well using a simple font. Ideally I would like to have the slider on the word Notify to operate and unlock the landing page to the interactive artwork, but not entirely sure how to go about coding that... so the backup option is to just have a button that you would mousepress or keypress to start the artwork. Also I've searched on the web, and it doesn't seem very likely for a kerning option to be applied to the text either, so I may just have to insert an image of the logo onto p5.js. However I'm thinking of incorporating the word Addiction by using the wiggly letter style that we learn't in class. Might add some interest on the landing page.
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2011/Notify%20My%20Addiction%20Logo%201-01.jpg" width = "500"/> <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2011/Notify%20My%20Addiction%20Logo%201-04.jpg" width = "500" />
+
+### Things To Consider For Next Week
+1. Possibly including another slidered that allows the circles to change into squares and the squares to changes into circles
+2. How to make the code operate on my phone. I remember Karen mentioning last class how when you shake the phone, it will generate a new pattern. Will need to do some further research on this!!!
+
