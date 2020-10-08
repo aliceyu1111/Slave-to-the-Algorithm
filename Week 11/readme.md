@@ -55,4 +55,5 @@ I also designed a logo for this project as well using a simple font. Ideally I w
 ### Things To Consider For Next Week
 1. Possibly including another slidered that allows the circles to change into squares and the squares to changes into circles
 2. How to make the code operate on my phone. I remember Karen mentioning last class how when you shake the phone, it will generate a new pattern. Will need to do some further research on this!!!
+3. Possibly include a link in the landing page so that users can be redirected to another page that explains more indepth about the project
 
