@@ -2,7 +2,8 @@
 
 **Link to my WIP for this week** https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2010/Stage_10_Button/
 
-# My WIP for the week
+
+# My documentation of the WIP for the week
 
 
 So based on last week class, I decided to continue editing my json data on p5.js, which I'm still trying to wrap my head around converting the data information to code words.
