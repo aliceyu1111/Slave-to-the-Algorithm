@@ -85,7 +85,7 @@ function setup() {
   button2.position (10, 335);
   button2.mousePressed (takescreenshot);
  
-  createCanvas (windowWidth, windowHeight);
+  createCanvas (displayWidth, displayHeight);
   background (255);
 
   instagramCol = color (142, 68, 173, 90);
