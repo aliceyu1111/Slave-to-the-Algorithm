@@ -65,7 +65,7 @@ function setup() {
   sizeslider.size (200, 1);
   sizeslider.hide();
   
-  rotateslider = createSlider (0, 100, 255);
+  rotateslider = createSlider (0, 150, 100);
   rotateslider.position (width/2 -90, height/2 -110);
   rotateslider.size (200, 1);
   rotateslider.hide();
