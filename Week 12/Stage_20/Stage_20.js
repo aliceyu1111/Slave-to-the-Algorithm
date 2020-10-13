@@ -33,22 +33,22 @@ function setup() {
   col2 = color (255, 20);
   instaslider = createSlider (0, 255, 127.5); //this determines the value of the colour range or just range of the slider. Not to be confused with the colour of the slider hehe
   instaslider.style ('fill',col2);
-  instaslider.position (width/2-90, height/2 -250);  // x and y
+  instaslider.position (width/4-90, height/4 -250);  // x and y
   instaslider.size (200, 1); // width and height
   instaslider.hide ();
     
   messslider = createSlider (0, 255, 127.5);
-  messslider.position (width/2-90, height/2 -220);
+  messslider.position (width/4-90, height/4 -220);
   messslider.size (200, 1);
   messslider.hide();
   
   snapslider = createSlider (0, 255, 127.5);
-  snapslider.position (width/2-90, height/2 -190);
+  snapslider.position (width/4-90, height/4 -190);
   snapslider.size (200, 1);
   snapslider.hide();
   
   sizeslider = createSlider (0, 200, 100);
-  sizeslider.position (width/2-90, height/2 -160);
+  sizeslider.position (width/4-90, height/4 -160);
   sizeslider.size (200, 1);
   sizeslider.hide();
   //bkslider = createSlider (0, 255, 255);
@@ -58,7 +58,7 @@ function setup() {
   col2 = color (255);
   sel = createSelect();
   sel.selected("Sunday",0);
-  sel.position (width/2 +85, height/2-320);
+  sel.position (width/4 +85, height/4-320);
   sel.option ("Sunday",0);
   sel.option ("Monday",1);
   sel.option ("Tuesday",2);
@@ -77,7 +77,7 @@ function setup() {
   button1.style ('line-color',col2);
   button1.style ('font-size', '15px');
   button1.style ('font-family', 'Futura');
-  button1.position (width/2 -50, height/2-320);
+  button1.position (width/4 -50, height/4-320);
   button1.mousePressed (changepattern);
   button1.hide ();
   
@@ -85,7 +85,7 @@ function setup() {
   button2.style ('background-color',col2);
   button2.style ('font-size', '15px');
   button2.style ('font-family', 'Futura');
-  button2.position (width/2 -160, height/2-320);
+  button2.position (width/4 -160, height/4-320);
   button2.mousePressed (takescreenshot);
   button2.hide ();
   
@@ -104,34 +104,34 @@ function draw (){
   if (mode==0) {
     
     img.resize (155, 43);
-    image (img, width/2 -155, height/2 - 183);
+    image (img, width/4 -155, height/4 - 183);
     fill (0);
     textAlign (CENTER);
     textSize (50);
-    textFont ("Futura");
+    textFont ("Futura"); 
     text ('N   O          T   I   F   Y', windowWidth/2 +12, windowHeight/2 -142);
-    text ('M Y', width/2 - 10, height/2 - 50);
-    text ('A', width/2 -280, height/2 +30); //windowWidth - 730, windowHeight - 300);
-    text ('D', width/2 -200, height/2 +50);
-    text ('D', width/2 -130, height/2 +90);
-    text ('!', width/2 -60, height/2 +50);
-    text ('C', width/2 +10, height/2 +70);
-    text ('T', width/2 +80, height/2 +50);
-    text ('!', width/2 +150, height/2 +30);
-    text ('O', width/2 +220, height/2 +100);
-    text ('N', width/2 +290, height/2 +70);
-    text ('.', width/2 + 360, height/2 +75);
-    text ('.', width/2 +430, height/2 +75);
-    text ('.', width/2 +500, height/2 +75);
+    text ('M Y', width/4 - 10, height/4 - 50);
+    text ('A', width/4 -280, height/4 +30); //windowWidth - 730, windowHeight - 300);
+    text ('D', width/4 -200, height/4 +50);
+    text ('D', width/4 -130, height/4 +90);
+    text ('!', width/4 -60, height/4 +50);
+    text ('C', width/4 +10, height/4 +70);
+    text ('T', width/4 +80, height/4 +50);
+    text ('!', width/4 +150, height/4 +30);
+    text ('O', width/4 +220, height/4 +100);
+    text ('N', width/4 +290, height/4 +70);
+    text ('.', width/4 + 360, height/4 +75);
+    text ('.', width/4 +430, height/4 +75);
+    text ('.', width/4 +500, height/4 +75);
     
     textSize (15);
     text ('This is an interactive generative artwork based off the data notification that Alice Yu received within a week. Move the sliders around to see what happens! Just have fun with it!',windowWidth/2 -250 ,windowHeight/2 +200, 525, 100);
-    text ('Press ENTER to Begin', windowWidth/2 - 78, windowHeight/2 -190);
+    text ('Press ENTER to Begin', windowWidth/4 - 78, windowHeight/4 -190);
    
     noFill ();
     strokeWeight (1);
     stroke (0);
-   rect (windowWidth/2 -155, windowHeight/2 -181, 155, 40, 50);
+   rect (windowWidth/4 -155, windowHeight/4 -181, 155, 40, 50);
    noLoop ();
      
   }
