@@ -2,7 +2,7 @@
 
 # Feedback
 1. Make the elements on the page adjust to the browser window. (When Andy and Karen opened the link, the landing page was off centered!)
-2. Consider a more fluid response to the UI elements on the page. Right feels like a last minute add on
+2. Consider a more fluid response to the UI elements on the page. Right now it feels like a last minute add on
 3. Consider using some sort of sounds within the project. Maybe using a piano melody. Something quirky and lyrical
 
 # Tasks For This Week!
