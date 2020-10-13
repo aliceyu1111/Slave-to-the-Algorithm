@@ -12,6 +12,7 @@ var textchange;
 var instaslider, messslider, snapslider, sizeslider;
 var col2;
 var words;
+var value;
 var mode; // menu page before artwork is displayed on screen
 
 function preload (){
@@ -175,7 +176,22 @@ function draw (){
 
  function windowResized () {
   resizeCanvas (windowWidth, windowHeight);
+  instaslider.position (width/2-90, height/2 -250);
+  messslider.position (width/2-90, height/2 -220);
+  snapslider.position (width/2-90, height/2 -190);
+  sizeslider.position (width/2-90, height/2 -160);
+  sel.position (width/2 +85, height/2-320);
+  button2.position (width/2 -160, height/2-320);
+  button2.position (width/2 -160, height/2-320);
+  button1.position (width/2 -50, height/2-320);
 
+}
+
+function deviceShaken () {
+  value = value +5;
+  if (value > 255) {
+    value = 0;
+  }
 }
 
 function changeday(){
