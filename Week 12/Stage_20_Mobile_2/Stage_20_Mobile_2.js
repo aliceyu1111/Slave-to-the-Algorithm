@@ -41,7 +41,7 @@ function setup() {
   col2 = color (255, 20);
   instaslider = createSlider (0, 255, 127.5); //this determines the value of the colour range or just range of the slider. Not to be confused with the colour of the slider hehe
   instaslider.style ('fill',col2);
-  instaslider.position (width/2-90, height/2 -250);  // x and y
+  instaslider.position (width/2-90, height/2 -500);  // x and y
   instaslider.size (200, 1); // width and height
   instaslider.hide ();
     
