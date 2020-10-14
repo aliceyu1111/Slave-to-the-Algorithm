@@ -1,0 +1,1399 @@
+{
+  "Days" : [
+  {"Day": "Sunday",
+  "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 1,
+        "messenger": 2,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 3
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 2,
+        "messenger": 2,
+        "snapchat": 0,
+        "email": 1,
+        "facebook": 0,
+        "totalNotification": 5
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 1,
+        "facebook": 0,
+        "totalNotification": 3
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 1,
+        "messenger": 2,
+        "snapchat": 3,
+        "email": 0,
+        "facebook": 2,
+        "totalNotification": 8
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 0,
+        "messenger": 2,
+        "snapchat": 7,
+        "email": 2,
+        "facebook": 0,
+        "totalNotification": 11
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 2,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 3
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 4,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 1,
+        "facebook": 0,
+        "totalNotification": 5
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 2
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 0,
+        "messenger": 2,
+        "snapchat": 4,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 6
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 5,
+        "messenger": 0,
+        "snapchat": 3,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 8
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 4,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 5
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 0
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 1,
+        "messenger": 11,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 12
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 0,
+        "messenger": 2,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 2
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 0,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 1
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 7,
+        "messenger": 1,
+        "snapchat": 21,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 29
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 3,
+        "email": 0,
+        "facebook": 0,
+        "totalNotification": 3
+      }
+     ]
+},
+  {"Day":"Monday",
+    "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 6,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 5,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 9,
+        "messenger": 3,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 3,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 0,
+        "messenger": 4,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 7,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 0,
+        "messenger": 5,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 5,
+        "messenger": 0,
+        "snapchat": 9,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 3,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      }
+     ]
+  },
+  {"Day": "Tuesday",
+    "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 1,
+        "email": 1
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 3,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 3,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 3,
+        "facebook": 1,
+        "email": 0
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 3,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 3,
+        "messenger": 1,
+        "snapchat": 11,
+        "facebook": 1,
+        "email": 0
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 0,
+        "messenger": 8,
+        "snapchat": 3,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 0,
+        "messenger": 22,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 0,
+        "messenger": 21,
+        "snapchat": 4,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 4,
+        "messenger": 6,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 10,
+        "messenger": 8,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 0,
+        "messenger": 22,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      }
+     ]
+  },
+  {"Day":"Wednesday",
+  "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 3,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 0,
+        "messenger": 2,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 0,
+        "messenger": 15,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 0,
+        "messenger": 6,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 0,
+        "messenger": 2,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 0,
+        "messenger": 18,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 0,
+        "messenger": 6,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 2,
+        "messenger": 26,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 2,
+        "messenger": 12,
+        "snapchat": 1,
+        "facebook": 1,
+        "email": 0
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 5,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 0,
+        "messenger": 7,
+        "snapchat": 3,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 0,
+        "messenger": 19,
+        "snapchat": 24,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 0,
+        "messenger": 8,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 0,
+        "messenger": 3,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 0,
+        "messenger": 2,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      }
+     ]
+  },
+  {"Day":"Thursday",
+  "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 0,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 2,
+        "messenger": 0,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 0,
+        "messenger": 4,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 11,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 0,
+        "messenger": 4,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 0,
+        "messenger": 5,
+        "snapchat": 4,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 0,
+        "messenger": 5,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 4,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 29,
+        "messenger": 0,
+        "snapchat": 8,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 0,
+        "messenger": 23,
+        "snapchat": 15,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 13,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 4,
+        "messenger": 2,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 3,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      }
+     ]
+  },
+  {"Day":"Friday",
+  "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 0,
+        "messenger": 3,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 1,
+        "messenger": 10,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 2,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 0,
+        "messenger": 6,
+        "snapchat": 8,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 0,
+        "messenger": 25,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 1,
+        "messenger": 2,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 0,
+        "messenger": 4,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 0,
+        "messenger": 10,
+        "snapchat": 3,
+        "facebook": 0,
+        "email": 3
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 1,
+        "messenger": 18,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 0,
+        "messenger": 23,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 0,
+        "messenger": 11,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 0,
+        "messenger": 7,
+        "snapchat": 4,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 0,
+        "messenger": 7,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      }
+     ]
+  },
+  {"Day":"Saturday",
+  "hours": [
+      {
+        "time": "12:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "1:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "2:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "4:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "5:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 1
+      },
+      {
+        "time": "8:00 am",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 2
+      },
+      {
+        "time": "9:00 am",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 am",
+        "instagram": 0,
+        "messenger": 26,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 am",
+        "instagram": 0,
+        "messenger": 29,
+        "snapchat": 0,
+        "facebook": 1,
+        "email": 2
+      },
+      {
+        "time": "12:00 pm",
+        "instagram": 4,
+        "messenger": 1,
+        "snapchat": 0,
+        "facebook": 3,
+        "email": 1
+      },
+      {
+        "time": "1:00 pm",
+        "instagram": 11,
+        "messenger": 29,
+        "snapchat": 4,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "2:00 pm",
+        "instagram": 0,
+        "messenger": 10,
+        "snapchat": 1,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "3:00 pm",
+        "instagram": 5,
+        "messenger": 5,
+        "snapchat": 3,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "4:00 pm",
+        "instagram": 3,
+        "messenger": 42,
+        "snapchat": 4,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "5:00 pm",
+        "instagram": 8,
+        "messenger": 0,
+        "snapchat": 9,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "6:00 pm",
+        "instagram": 0,
+        "messenger": 15,
+        "snapchat": 11,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "7:00 pm",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 8,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "8:00 pm",
+        "instagram": 2,
+        "messenger": 15,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "9:00 pm",
+        "instagram": 0,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "10:00 pm",
+        "instagram": 0,
+        "messenger": 11,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      },
+      {
+        "time": "11:00 pm",
+        "instagram": 1,
+        "messenger": 0,
+        "snapchat": 0,
+        "facebook": 0,
+        "email": 0
+      }
+    ]
+  }
+]}
