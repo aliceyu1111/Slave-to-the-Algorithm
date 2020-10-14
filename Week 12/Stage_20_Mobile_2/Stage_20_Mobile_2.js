@@ -29,7 +29,7 @@ function preload (){
 }
 function setup() {
   
-  createCanvas (windowWidth, windowHeight);
+  createCanvas (displayWidth, displayHeight);
   background (255);
   
   //colorMode (HSB, 255);
