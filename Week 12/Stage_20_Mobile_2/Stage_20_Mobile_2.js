@@ -29,7 +29,7 @@ function preload (){
 }
 function setup() {
   
-  createCanvas (displayWidth, displayHeight);
+  createCanvas (windowWidth, windowHeight);
   background (255);
   
   //colorMode (HSB, 255);
@@ -41,22 +41,22 @@ function setup() {
   col2 = color (255, 20);
   instaslider = createSlider (0, 255, 127.5); //this determines the value of the colour range or just range of the slider. Not to be confused with the colour of the slider hehe
   instaslider.style ('fill',col2);
-  instaslider.position (width/2-90, height/2 -500);  // x and y
+  instaslider.position (windowWidth/2-90, windowHeight/2 -250);  // x and y
   instaslider.size (200, 1); // width and height
   instaslider.hide ();
     
   messslider = createSlider (0, 255, 127.5);
-  messslider.position (width/2-90, height/2 -220);
+  messslider.position (windowWidth/2-90, windowHeight/2 -220);
   messslider.size (200, 1);
   messslider.hide();
   
   snapslider = createSlider (0, 255, 127.5);
-  snapslider.position (width/2-90, height/2 -190);
+  snapslider.position (windowWidth/2-90, windowHeight/2 -190);
   snapslider.size (200, 1);
   snapslider.hide();
   
   sizeslider = createSlider (0, 200, 100);
-  sizeslider.position (width/2-90, height/2 -160);
+  sizeslider.position (windowWidth/2-90, windowHeight/2 -160);
   sizeslider.size (200, 1);
   sizeslider.hide();
   //bkslider = createSlider (0, 255, 255);
@@ -66,7 +66,7 @@ function setup() {
   col2 = color (255);
   sel = createSelect();
   sel.selected("Sunday",0);
-  sel.position (width/2 +85, height/2-320);
+  sel.position (windowWidth/2 +85, windowHeight/2-320);
   sel.option ("Sunday",0);
   sel.option ("Monday",1);
   sel.option ("Tuesday",2);
@@ -85,7 +85,7 @@ function setup() {
   button1.style ('line-color',col2);
   button1.style ('font-size', '15px');
   button1.style ('font-family', 'Futura');
-  button1.position (width/2 -50, height/2-320);
+  button1.position (windowWidth/2 -50, windowHeight/2-320);
   button1.mousePressed (changepattern);
   button1.hide ();
   
@@ -93,7 +93,7 @@ function setup() {
   button2.style ('background-color',col2);
   button2.style ('font-size', '15px');
   button2.style ('font-family', 'Futura');
-  button2.position (width/2 -160, height/2-320);
+  button2.position (windowWidth/2 -160, windowHeight/2-320);
   button2.mousePressed (takescreenshot);
   button2.hide ();
   
@@ -101,7 +101,7 @@ function setup() {
   button3.style ('background-color',col2);
   button3.style ('font-size', '15px');
   button3.style ('font-family', 'Futura');
-  button3.position (width/2 -50, height/2-320);
+  button3.position (windowWidth/2 -50, windowHeight/2-320);
   button3.mousePressed (Enter);
 
   instagramCol = color (142, 68, 173, 90);
@@ -118,25 +118,25 @@ function draw (){
   if (mode==0) {
 
     img.resize (155, 43);
-    image (img, width/2 - 155, height/2 - 183);
+    image (img,windowWidth/2 - 155, windowHeight/2 - 183);
     fill (0);
     textAlign (CENTER);
     textSize (50);
     textFont ("Futura"); 
     text ('N   O          T   I   F   Y', windowWidth/2 +12, windowHeight/2 -142);
-    text ('M Y', width/2 - 10, height/2 - 50);
-    text ('A', width/2 -280, height/2 +30); //windowWidth - 730, windowHeight - 300);
-    text ('D', width/2 -200, height/2 +50);
-    text ('D', width/2 -130, height/2 +90);
-    text ('!', width/2 -60, height/2 +50);
-    text ('C', width/2 +10, height/2 +70);
-    text ('T', width/2 +80, height/2 +50);
-    text ('!', width/2 +150, height/2 +30);
-    text ('O', width/2 +220, height/2 +100);
-    text ('N', width/2 +290, height/2 +70);
-    text ('.', width/2 + 360, height/2 +75);
-    text ('.', width/2 +430, height/2 +75);
-    text ('.', width/2 +500, height/2 +75);
+    text ('M Y', windowWidth/2 - 10, windowHeight/2 - 50);
+    text ('A', windowWidth/2 -280, windowHeight/2 +30); //windowWidth - 730, windowHeight - 300);
+    text ('D', windowWidth/2 -200, windowHeight/2 +50);
+    text ('D', windowWidth/2 -130, windowHeight/2 +90);
+    text ('!', windowWidth/2 -60, windowHeight/2 +50);
+    text ('C', windowWidth/2 +10, windowHeight/2 +70);
+    text ('T', windowWidth/2 +80, windowHeight/2 +50);
+    text ('!', windowWidth/2 +150, windowHeight/2 +30);
+    text ('O', windowWidth/2 +220, windowHeight/2 +100);
+    text ('N', windowWidth/2 +290, windowHeight/2 +70);
+    text ('.', windowWidth/2 + 360, windowHeight/2 +75);
+    text ('.', windowWidth/2 +430, windowHeight/2 +75);
+    text ('.', windowWidth/2 +500, windowHeight/2 +75);
     
     textSize (15);
     text ('This is an interactive generative artwork based off the data notification that Alice Yu received within a week. Move the sliders around to see what happens! Just have fun with it!',windowWidth/2 -250 ,windowHeight/2 +200, 525, 100);
@@ -191,15 +191,15 @@ function draw (){
 
  function windowResized () {
   resizeCanvas (windowWidth, windowHeight);
-  instaslider.position (width/2-90, height/2 -250);
-  messslider.position (width/2-90, height/2 -220);
-  snapslider.position (width/2-90, height/2 -190);
-  sizeslider.position (width/2-90, height/2 -160);
-  sel.position (width/2 +85, height/2-320);
-  button2.position (width/2 -160, height/2-320);
-  button2.position (width/2 -160, height/2-320);
-  button1.position (width/2 -50, height/2-320);
-  button3.position (width/2 -50, height/2-320);
+  instaslider.position (windowWidth/2-90, windowHeight/2 -250);
+  messslider.position (windowWidth/2-90, windowHeight/2 -220);
+  snapslider.position (windowWidth/2-90, windowHeight/2 -190);
+  sizeslider.position (windowWidth/2-90, windowHeight/2 -160);
+  sel.position (windowWidth/2 +85, windowHeight/2-320);
+  button2.position (windowWidth/2 -160, windowHeight/2-320);
+  button2.position (windowWidth/2 -160, windowHeight/2-320);
+  button1.position (windowWidth/2 -50, windowHeight/2-320);
+  button3.position (windowWidth/2 -50, windowHeight/2-320);
 
 }
 
