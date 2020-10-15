@@ -17,6 +17,8 @@ Final Project Link! https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%20
 
 # WIP 
 Alright so, getting all my elements to adjust central on all browser sizes took some times to recategorise my objects, but we got there in there in the end! Also sent a link out to some of my friends to see if it worked on their monitor and it did! Unfortunately did run out of time in trying to correct the issue with displaying it on a mobile device screen. 
+I also attempted incorporating using a slider to control the rotating my squares, but somehow kept running into the issue of that whenever my slider was on the right hand side, not all shapes would appear within the screen... Couldn't really figure out the issue, so decided to leave this out as I decided to focus on other elements that I could resolve. 
+
 
 ### Experimenting with different UI layouts
 
