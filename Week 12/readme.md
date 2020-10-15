@@ -14,3 +14,8 @@ Final Project Link! https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%20
 5. Search through some music and see if it works with project
 6. Continue to work on Artist Statement
 7. Combine WIP documents in PDF file for submission
+
+# WIP 
+Alright so, getting all my elements to adjust central on all browser sizes took some times to recategorise my objects, but we got there in there in the end! Also sent a link out to some of my friends to see if it worked on their monitor and it did!
+
+
