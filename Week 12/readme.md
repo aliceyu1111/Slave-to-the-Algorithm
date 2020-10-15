@@ -28,5 +28,12 @@ I also attempted incorporating using a slider to control the rotating my squares
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-16.jpg" width ="300" /> 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-17.jpg" width ="300" /> 
 
+# The Final Outcome
 
+### My Hero Image
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20Hero%20Image-13.jpg" width ="700" /> 
+
+
+
+![Alt Text](https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/NotifyMyAddiction.gif) width = "700"
 
