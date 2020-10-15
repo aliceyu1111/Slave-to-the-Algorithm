@@ -16,6 +16,15 @@ Final Project Link! https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%20
 7. Combine WIP documents in PDF file for submission
 
 # WIP 
-Alright so, getting all my elements to adjust central on all browser sizes took some times to recategorise my objects, but we got there in there in the end! Also sent a link out to some of my friends to see if it worked on their monitor and it did!
+Alright so, getting all my elements to adjust central on all browser sizes took some times to recategorise my objects, but we got there in there in the end! Also sent a link out to some of my friends to see if it worked on their monitor and it did! Unfortunately did run out of time in trying to correct the issue with displaying it on a mobile device screen. 
+
+### Experimenting with different UI layouts
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-08.jpg" width ="300" />  <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-09.jpg" width ="300" /> 
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-14.jpg" width ="300" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-15.jpg" width ="300" /> 
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-16.jpg" width ="300" /> 
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20UI%20Placements-17.jpg" width ="300" /> 
+
 
 
