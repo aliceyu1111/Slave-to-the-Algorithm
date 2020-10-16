@@ -199,8 +199,8 @@ function draw (){
     // the text next to sliders 
     text ('Col 1', width/2 -450, height/2 -295);
     text ('Col 2', width/2 -450, height/2 -313);
-    text ('Col 3', width/2 +470, height/2 -313);
-    text ('Size', width/2 +469, height/2 -295);
+    text ('Col 3', width/2 +470, height/2 -295);
+    text ('Size', width/2 +469, height/2 -313);
     textFont ('Futura');
     textStyle (NORMAL);
     textSize (10);      
