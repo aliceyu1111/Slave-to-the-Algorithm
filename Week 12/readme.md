@@ -32,7 +32,7 @@ I also attempted incorporating using a slider to control the rotating my squares
 
 # The Final Outcome
 
-![Alt Text](https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/NotifyMyAddiction.gif) 
+![Alt Text](https://media.giphy.com/media/H7jcIRAhMLBWGzWUbz/giphy.gif) 
 
 ### My Hero Image
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20Hero%20Image-13.jpg" width ="700" /> 
