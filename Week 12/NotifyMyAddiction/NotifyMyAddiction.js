@@ -131,7 +131,7 @@ function draw (){
     textSize (50);
     textFont ("Futura"); 
     text ('N          T   I   F   Y', windowWidth/2 +12, windowHeight/2 -142);
-    text ('M Y', width/2 - 10, height/2 - 50);
+    text ('M Y', width/2, height/2 - 50);
     text ('A', width/2 -280, height/2 +30); //windowWidth - 730, windowHeight - 300);
     text ('D', width/2 -200, height/2 +50);
     text ('D', width/2 -130, height/2 +90);
@@ -146,7 +146,8 @@ function draw (){
     text ('.', width/2 +500, height/2 +75);
     
     textSize (15);
-    text ('This is an interactive generative artwork based off the data notification that Alice Yu received within a week. Move the sliders around to see what happens! Just have fun with it!',windowWidth/2 -250 ,windowHeight/2 +170, 525, 100);
+    text ('Project By Alice Yu', width/2, height/2 +300);
+    //text ('This is an interactive generative artwork based off the data notification that Alice Yu received within a week. Move the sliders around to see what happens! Just have fun with it!',windowWidth/2 -250 ,windowHeight/2 +170, 525, 100);
     textStyle (BOLD);
     text ('Click anywhere on screen to begin', windowWidth/2 + 8, windowHeight/2 +250);
     
@@ -194,13 +195,14 @@ function draw (){
 
     // the menu bar at the top
     fill (0);
-    rect (width/2 -800, height/2 -480, 1800, 200);
+    rect (width/2 -800, height/2 -480, 1800, 230);
     fill (255);
     // the text next to sliders 
     text ('Col 1', width/2 -450, height/2 -295);
     text ('Col 2', width/2 -450, height/2 -313);
     text ('Col 3', width/2 +470, height/2 -313);
     text ('Size', width/2 +469, height/2 -295);
+    text ('Generative artwork based off the data notification that Alice Yu received within a week. Move sliders around to see what happens!', windowWidth/2 - 400 ,windowHeight/2 - 275, 800, 100);
     textFont ('Futura');
     textStyle (NORMAL);
     textSize (10);      
