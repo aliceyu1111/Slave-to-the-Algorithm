@@ -1,5 +1,5 @@
 # Week 12
-Final Project Link! https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2012/NotifyMyAddiction/
+Final Project Link! https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2012/NotifyMyAddiction_Alice/
 
 # Feedback
 1. Make the elements on the page adjust to the browser window. (When Andy and Karen opened the link, the landing page was off centered!)
