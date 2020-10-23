@@ -11,6 +11,7 @@ For the second half of the class, Karen showed us how to use the sound to affect
 I discovered this example on openprocessing
 
 ![Alt Text](https://media.giphy.com/media/JEYDxiJ4F8PAjDBm32/giphy.gif)
+
 https://www.openprocessing.org/sketch/935348 
 
 I felt that this one was more on point to what I had imagined my project to look like, compared to the liquid simulation that I found. One of the main reasons was that the liquid simulation code did appear to be quite pixilated and slow in the process compared to this one, and I was struggling quite a bit in relation to trying to alter changes to suit my project as well.  
@@ -18,3 +19,7 @@ I felt that this one was more on point to what I had imagined my project to look
 Here I attempted to make changes to the original code to make it more my own. Not much progress has happened to be honest. The only thing I added was the sphere in the center. My next goal is to somehow get rid of the background and only have the moving fluid within the sphere. I'm still feeling a little shaky with this idea...
 
 ![Alt Text](https://media.giphy.com/media/vZklhOr70Ok4SHteSE/giphy.gif)
+
+# Inspirational Work Discoveries 
+So one of my friends sent over this link:  https://receiptify.herokuapp.com/
+It essentially generates a receipt based on your top spotify most listened tracks! This idea was so simple and fun and a great example of a generative project that uses data. 
