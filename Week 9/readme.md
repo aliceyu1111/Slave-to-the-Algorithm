@@ -11,6 +11,7 @@ In this paper prototype I was thinking of displaying the data in a circle to rep
 
 
 ![Alt Text](https://media.giphy.com/media/qvRj1gyVapg0kZTPUd/giphy.gif)
+
 **Artist:** Adil Rabbani
 **Project Title:** Visualizing Pi in p5.js
 **Reference:** https://adilrabbani.github.io/experiments/GenerativeArt/VisualizingPi.html
