@@ -1,5 +1,6 @@
 # Week 6
 
+# Class Overview
 This week we touched base on what sort of area we would group ourselves in according to our presentations pitch and intended goals and ideas. I placed myself somewhere in-between sensory data and sound, however the more I think about my approach, the more I want to focus on the visual aspects of the project, whilst including sound as a background approach to further elevate my overall concept.  
 
 Also, during the first half of the class, Andy got us to quickly do a paper prototype of an arcade video game within 10mins. This was a super fun exercise and it got us think about how we can present our ideas through a paper prototype not only for this class, but for future projects as well. This prototype was based on Super Mario 
@@ -114,7 +115,7 @@ Here is a simple sketch that I drew out to help with my explanation.
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Untitled_Artwork.jpg" width ="500" />
 
-### Artist Inspiration
+### Inspirational Artists & Projects
 
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%201.png" width ="500" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%202.png" width ="500" />
