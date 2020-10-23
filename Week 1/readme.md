@@ -88,4 +88,3 @@ Here I was playing around with some of the codes from the examples in Processing
 ###### original code of DynamicIntermediate Particles by unknown name within the examples section of Processing
 I tried to slow down the particles and write my name hehe
 
-[NEXT WEEK](https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%202/)
