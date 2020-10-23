@@ -20,6 +20,7 @@ Here I attempted to make changes to the original code to make it more my own. No
 
 ![Alt Text](https://media.giphy.com/media/vZklhOr70Ok4SHteSE/giphy.gif)
 
-# Inspirational Work Discoveries 
+# Inspirational Artists & Projects
+
 So one of my friends sent over this link:  https://receiptify.herokuapp.com/
 It essentially generates a receipt based on your top spotify most listened tracks! This idea was so simple and fun and a great example of a generative project that uses data. 
