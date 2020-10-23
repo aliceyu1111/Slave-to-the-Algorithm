@@ -17,6 +17,7 @@ In summary generative design is “thinking about designing not the object – b
 Reading from Karen’s notes, to me this makes the most sense. “parametric design is dependent on variables that alter the geometry or other factors (like a template), while generative design creates new objects or visuals where there were not any before (as if you are growing something
 
 
+# Class Overview
 ### Class Activity 1: Roll The Dice 
 
 The results of this challenge for me were quite interesting, in terms of how illiterate and messy it was. For some reason my dice kept on landing on the option where I had to either draw with my mouth or elbow. The results were very much distorted but kind of interesting. I guess you could say this is what happens when you try to input an algorithm that is either incorrect or too much for the computer to handle so therefore it lags and creates a jumble of messy lines.  
@@ -29,7 +30,7 @@ And, don’t even get me started on drawing with your knees option as that was j
  
  Also, if anyone is wondering what the bottom left corner was meant to be. They were supposed to be hands, but the dice landed twice on drawing hands with my mouth. 
  
- ### Artist Research
+ # Inspirational Work
  
  _**Artist 1: Sougwen Chung**_
  
@@ -61,7 +62,7 @@ Her project **“The Changing Room”** where through an AI software installatio
 
 **Video of installation** https://player.vimeo.com/video/207014536
 
-#### Playing around with Processing 
+# Experimenting with Processing 
 
 Here I was playing around with some of the codes from the examples in Processing. I wanted to see how much I could alter something by just simply adjusting numbers in the code. The results were very interesting and it was just a lot of fun to see the end result. Below are just some screenshots :) 
 
