@@ -10,6 +10,7 @@ In this paper prototype I was thinking of displaying the data in a circle to rep
 # Inspirational Work
 
 
+### Visualising Pi in p5.js
 ![Alt Text](https://media.giphy.com/media/qvRj1gyVapg0kZTPUd/giphy.gif)
 
 **Artist:** Adil Rabbani
@@ -23,7 +24,7 @@ This work is based off Daniel Shiffman's "Visualizing 1 million digits of Pi", i
 
 
 
-
+### My Climate 2050
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%209/acf-myclimate.png" width ="500" /> 
 
 **Artist:** Mitchell Whitelaw
