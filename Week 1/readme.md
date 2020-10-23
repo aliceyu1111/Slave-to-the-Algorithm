@@ -15,6 +15,7 @@ In summary generative design is “thinking about designing not the object – b
 **So, what's the difference between the two?** 
 
 Reading from Karen’s notes, to me this makes the most sense. “parametric design is dependent on variables that alter the geometry or other factors (like a template), while generative design creates new objects or visuals where there were not any before (as if you are growing something
+**Reference:** https://www.newequipment.com/research-and-development/article/22059780/what-generative-design-is-and-why-its-the-future-of-manufacturing 
 
 
 # Class Overview
