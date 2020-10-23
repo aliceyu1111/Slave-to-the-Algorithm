@@ -7,7 +7,7 @@ This week was all about presenting our progress to the class and to see how ever
 
 In this paper prototype I was thinking of displaying the data in a circle to represent the hours of the day. The dots represent the notifications and they would be plotted around the circle depending on when the notifications appeared throughout the day. The sizes of the dots would depend on how many notifications were received within that hour. As of now, getting the dots arranged in a circle and getting them to reflect the data in my JSON file seems far out of my reach, so as of continuing on for next week, I'll start of simple and easy and build from there. 
 
-# Inspirational Work
+# Inspirational Artists & Projects
 
 
 ### Visualising Pi in p5.js
