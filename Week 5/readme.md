@@ -1,10 +1,12 @@
 # Week 5
+
+# Class Overview
 ### Presentations, Presentations, Presentations!
  
 
 This week I got to see what other students in my class had developed as their ideas for their presentation pitch. I was so impressed the amount of creativity and experimentation that everyone was able to come up with and produce. No two pitch ideas were the same and there was a good balance between computer based generative design and non-computer based generative design. There was a lot of ideas running through my head as I was listening to other people and what I could potentially explore further as a result. Before I was mainly focusing on digital work to represent my data but I was still open to seeking more ideas on how I could present my data in a more non-digital aspect. The 2 presentations about representing data on tapestry was really intriguing to me, and left me wondering how on earth did you even think about that!? Aha  
 
-### Notes from my Presentation
+# Notes from my Presentation
 **Title: Notify My Addiction**
 
 **What** 
@@ -80,7 +82,7 @@ There was a big spike on Thursday and Saturday, but the data didn’t really fol
 
 Also, I did unmute my notifications from vibrate to ringtone, and I realized that each app has their own unique notification sound, some a bit louder than others, and some a bit more subtle and calming. My email notification sound had the best sound to me since it sounded less “urgent” compared to my snapchat and messenger's app did. I did eventually turn it back to vibrate since the alerts were starting to annoy me like a lot! And it was extremely distracting when you are trying to focus on everything but your phone.  
 
-### Artists Inspiration
+# Inspirational Artists & Projects
 **Micheala Gleave**
 
 After my presentation, Karen mentioned that I should look into an Australian artist called Micheala Gleave. Upon looking at her previous works, the one that stood out the most to me and I believe applies to my project concept the most was “A Galaxy of Suns”  
@@ -98,19 +100,17 @@ I decided to have a look on Open Processing to get more ideas of how other peopl
 I like how whenever you click on the screen, there is a different pitch and the colour of the background changes as well as the size of the circle. Simple yet pretty cool
 ###### Reference: https://www.openprocessing.org/sketch/935749 
 
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%201.png" width ="300" />
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%202.png" width ="300" />
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%203.png" width ="300" />
+![Alt Text](https://media.giphy.com/media/U6JMlKmAINDKnc8CSm/giphy.gif)
 
 ### Example #2
 There isn’t any sound to this one, but I love how mesmerizing this animation was. I thought I could potentially adapt this make it more hypnotic. (referring to how screens on our phones are potentially hypnotizing us) Also thought how might the colours change according to different notification ringtones and how might the blob grow due to amount of notifications... 
 ###### Reference: https://www.openprocessing.org/sketch/838545 
 
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%204.png" width ="300" />
+![Alt Text](https://media.giphy.com/media/SHVdyKBCySiGlfds9S/giphy.gif)
 
 ### Eaxmple #3
 This was another interesting one for my project. So, the volume and sound changes as your move the mouse around.
 ###### Reference: https://www.openprocessing.org/sketch/398400 
 
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%205.png" width ="300" />
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%205/OpenProcessingExamples%206.png" width ="300" />
+![Alt Text](https://media.giphy.com/media/t4igLD6DKcbHG2TFZN/giphy.gif)
+
