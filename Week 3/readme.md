@@ -1,5 +1,6 @@
 # Week 3
 
+# Class Overview 
 This week we explored the notion of bio technological drawings and had a look at some artists. I decided to do some further research into these artists in hopes it will inspire me for my upcoming assignments. 
 
 ### Artist explored in class 
@@ -15,6 +16,17 @@ Joseph Griffiths, Drawing Machine #1, 2012
 Robert Howsare 
 
 Margie Livingston 
+
+### Class Activity
+
+Within an hour we were asked to create our own bio technological drawings just through some string, pencils or paint. I had a look around what I had in my room and found an old plastic bag which I ripped up and made handles around a rectangular plastic plate that used to contain Ferrier Rocher chocolates. I attached a ball with a stretchy like string and clicked it all together. The base of the ball was also painted using acrylic paint. I decided to first to hook it on a handle of some sort, but due to lack of wind outside I changed locations, hoping it would work better on a clothesline. It didn’t so had decided to hand move the clothesline back and forth and spin it as well to create some movement. The results were quite interesting.  
+
+
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%201.jpg" width ="400" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%202.jpg" width ="400" />
+
+
+# Inspirational Artists & Projects
 
 **Artist: Tim Knowles**
 
@@ -48,18 +60,6 @@ Okay okay last one I promise but this seemed really cool!
 
 ###### Balloon Drawings made in conjunction with weather reports. 
 ###### Makrolab,  Blair Atholl,  Scotland. 2002 
-
-
-### Class Activity
-
-Within an hour we were asked to create our own bio technological drawings just through some string, pencils or paint. I had a look around what I had in my room and found an old plastic bag which I ripped up and made handles around a rectangular plastic plate that used to contain Ferrier Rocher chocolates. I attached a ball with a stretchy like string and clicked it all together. The base of the ball was also painted using acrylic paint. I decided to first to hook it on a handle of some sort, but due to lack of wind outside I changed locations, hoping it would work better on a clothesline. It didn’t so had decided to hand move the clothesline back and forth and spin it as well to create some movement. The results were quite interesting.  
-
-
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%201.jpg" width ="400" />
-<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%203/Non-Human%20Drawing%202.jpg" width ="400" />
-
-
-### Further Artist Research (because I wanna know more!!!)
 
 **Artist: Sam van Doorn**
 
