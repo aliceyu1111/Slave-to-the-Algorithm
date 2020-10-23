@@ -1,5 +1,7 @@
 # Week 7
 
+# Class Overview 
+
 This week, we each delivered a 1min presentation based on our final idea and what steps we had already taken and what we needed to do next.  
 
 We also got the opportunity to do a paper-mockup of our project as well. I did mine through procreate and just edited it all into a gif as I feel it explains my idea clearer. The overall concept is still the same as to my pitch during week 5.  
@@ -25,7 +27,7 @@ END IF
 
  
 
-### Homework Task 
+# Homework Task 
 
 Our task for the week was to create a pseudo code for our own project.  
 
@@ -75,7 +77,7 @@ Since I’ve recorded data for a whole week, given if I have time, I thought it 
 I also tried to do some more research into p5.js by watching a couple of Dan Shiffman’s YouTube Videos as well as looking up some references on p5.js and through Github 
 
 
-### What I have learnt or discovered this week through my own research 
+# What I have learnt or discovered this week through my own research 
 
 How to code an array of things onto p5.js 
 
@@ -95,7 +97,7 @@ Watched a video on Reaction Diffusion. I thought it would better if I started to
 
  
 
-### What I am struggling with this week? 
+# What I am struggling with this week? 
 
 The thing I’m mostly struggling right now is how I can extract the data that I have from my JSON file into p5.js. Not only that but how do I then create a moving animation that is defined by the data?  
 
