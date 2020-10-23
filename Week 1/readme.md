@@ -27,7 +27,7 @@ The results of this challenge for me were quite interesting, in terms of how ill
 And, don’t even get me started on drawing with your knees option as that was just impossible! This was not due to my lack of trying, because I tried and failed multiple times. 
 
 
-<img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Activity%201%20-%20Roll%20The%20Dice%20Rules%20Chart.png >
+![image](https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Activity%201%20-%20Roll%20The%20Dice%20Rules%20Chart.png) 
 <img src= https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%201/Activity%201%20-%20Roll%20The%20Dice%20Results.png >
  
  Also, if anyone is wondering what the bottom left corner was meant to be. They were supposed to be hands, but the dice landed twice on drawing hands with my mouth. 
