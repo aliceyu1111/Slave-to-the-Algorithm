@@ -4,55 +4,20 @@
 This week was all about Processing! Prior to class I did play with the program, but I honestly had zero clue what I was doing beside changing the numbers around from someone else code. The results were definitely interesting to see and I was intrigued to learn more.  
 
 ### In Class Activity 
+We started off pretty simple and this is the result of what Karen had showed us! 
+
+![Alt Text](https://media.giphy.com/media/xIvMKfV3phghRcOjnF/giphy.gif)
 
 A self-portrait that was inspired by the tv show 'Regular Show'. I don’t really know what it was, but when I inputted the code of a circle with the skin colour, I instinctively thought of the character 'Pops'. So, I just kind of based my own portrait off that and added my own spin to it. I quite liked the end result. 
 
 <img src=https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%202/Self%20Portrait.png >
 
+![Alt Text](https://media.giphy.com/media/9V23g1oEC8zDZWxxFp/giphy.gif)
+
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%202/Pops_character.png" width ="200" /> 
 
 ###### this was my inspiration hehe
 
-
-**The Code**
-
-
-// Self Portrait made 31/7/2020 by Alice Yu
-
-
-void setup () {
-size (500, 500);
-background (231, 161, 176);
-    
-}
-
-void draw(){
-fill (0);
-stroke (0);
-//line (20, 20, 20, 20);
-fill (mouseX/2, mouseY/2, (mouseX+mouseY)/4);
-ellipse (mouseX, mouseY, 20, 20); 
-line (mouseX, mouseY, 250, 150);
-fill (255, 220, 177);
-ellipse (250, 200, 200, 200);
-fill (255);
-ellipse (220, 200, 20, 20);
-ellipse (260, 200, 20, 20);
-fill (68, 0, 0);
-ellipse (220, 202, 10, 10);
-ellipse (260, 202, 10, 10);
-fill (255, 173, 164);
-ellipse (200, 220, 20, 10);
-ellipse (280, 220, 20, 10);
-fill (0);
-ellipse (200,100, 50, 50);
-ellipse (300, 100, 50, 50);
-ellipse (250, 120, 100, 40);
-
-fill (0);
-ellipse (240, 250, 10, 10);
-
-}
 
 
 After class I did feel a little more confident with the basics of processing and it was actually quite fun to play around with. It was also really interesting to see the different results of everyone else's self-portraits given the fact that we all had the same amount of knowledge about processing and the same set of rules.  
