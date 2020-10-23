@@ -1,5 +1,6 @@
 # Week 4
 
+# Class Overview
 This week was more about learning how to code in Processing, specifically within the realms of image and text manipulation. We got to play around with using images and learning how to recreate and sketch that image through the use of codes and creating some really interesting and fun results. For me I found the steps and language for this a lot easier to grasp and understand compared to when we started to play around with type. Inserting type into Processing was the easy part, but however when we started to look at rotating things, it got a bit tricky. From then on I was a bit lost, but I still managed to follow along with Karen.  
 
 Here are the screen shots from the class activity  
