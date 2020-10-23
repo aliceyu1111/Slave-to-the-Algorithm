@@ -12,6 +12,8 @@ Also, during the first half of the class, Andy got us to quickly do a paper prot
 
 During the second half of the class, Karen showed us how to use P5.js which is different to Java. We learnt how to incorporate sound into a simple piece of artwork, which was actually pretty cool! Although the annoying thing I’m still trying to get over is the fact that if you enter one word or letter incorrectly your whole code doesn’t work. Super frustrating, but I’m learning to take deep breaths in-between. (Okay and some meditation in-between as well heheh) It was fun getting to learn how to incorporate sound and how we can make that volume of the sound affect and change the circle shape within the artwork. This is something I might try to incorporate into my code later down the track. 
 
+![Alt Text](https://media.giphy.com/media/7PQrYuTIxwim9N5dih/giphy.gif)
+
 ### Recap of things I learnt during this class in P5.js 
 
  **P5.js** = different to Javascript! 
