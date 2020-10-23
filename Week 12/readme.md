@@ -38,5 +38,15 @@ I also attempted incorporating using a slider to control the rotating my squares
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Notify%20My%20Addiction%20Hero%20Image-13.jpg" width ="700" /> 
 
 
+# Potential Usages 
 
+
+# Reflection
+Knowing nothing about the coding world until this studio, I think it’s fair to say I’ve learned quite a lot, but I’ve since then also learned that the coding world is probably not best suited for me. There was definitely a major learning curve to this studio, but I’m so glad that I now understand a bit more about what it takes to code. I now have a better understanding of how a JSON file operates and how to access the information within through coding. I’ve grasped the basic knowledge of drawing up a sketch and learning how to add different elements such as pixel density, to rotate as well as using mouseX, mouseY function to creating interesting effects and unique generative outcomes. Even though my work is far from what I envisioned it would be during the beginning of the studio, I’m still pretty happy with the outcome. 
+
+Overall this class was definitely something that got me out of my comfort zone and really challenged me to think beyond what I was capable of achieveing. I have now discovered a new appreciation for generative and parametric art and all the hardwork behind the scenes. I've acquired new knowledge of the endless possibilities of what one can do with data information and how data doesn't have to be represented in boring graphs and pie charts, but there's so much more inventive ways of going about it. This class has truly opened my mind to another aspect of design that I was too scared of exploring before, but now all I want to do is learn more and see where it takes me in the future. 
+
+
+# How this project can be further improved
+However, given more time, I would have loved to see how I could incorporate movement within my artwork. Such as a subtle motion that would blur the shapes the longer, they were on the canvas, or even being able to mutate the circles into squares with a slider. Also, the slider that I created on the landing page, not only is it resembling the “slide to unlock” function the older iPhone generations had, but at the moment it’s static. Given more time, I would have liked for the slider to actually work and when users slide it across, it would transition the page across to the artwork. I believe to have achieved something like this, I would have needed to explored CSS, therefore allowing me to be able to create customised sliders and buttons. It would also have been nice to include some sort of quirky sound rhythm, but couldn’t quite find a right fit for any of the examples online. Once again given more, I would have liked to generate my own sort of sound based off the notification ringtones to make the final project more interesting and authentic.  
 
