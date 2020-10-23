@@ -1,6 +1,5 @@
 # Week10
-
-**Link to my WIP for this week** https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2010/Stage_10_Button/
+[THIS WEEK WIP LINK](https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2010/Stage_10_Button/)
 
 
 # My documentation of the WIP for the week
