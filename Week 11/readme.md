@@ -1,6 +1,6 @@
 # Week 11
-**Link To This Weeks Code**
-https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2011/Stage%2017/
+[THIS WEEK WIP LINK](https://aliceyu1111.github.io/Slave-to-the-Algorithm/Week%2011/Stage%2017/)
+
 
 # Feedback from Week 10
 
