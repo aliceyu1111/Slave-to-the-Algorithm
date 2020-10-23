@@ -25,7 +25,11 @@ RETURN to braid hair down left side
 
 END IF 
 
- 
+
+Towards the last hour of class, Karen showed us an interesting way of playing around with typography in p5.js! 
+
+![Alt Text](https://media.giphy.com/media/RogqozehcxKRHrD5yW/giphy.gif)
+
 
 # Homework Task 
 
