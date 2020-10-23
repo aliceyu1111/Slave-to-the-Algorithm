@@ -29,7 +29,7 @@ END IF
 Towards the last hour of class, Karen showed us an interesting way of playing around with typography in p5.js! 
 
 ![Alt Text](https://media.giphy.com/media/RogqozehcxKRHrD5yW/giphy.gif)
-
+![Alt Text](https://media.giphy.com/media/RoCf5YQHLLa5vOlAou/giphy.gif)
 
 # Homework Task 
 
