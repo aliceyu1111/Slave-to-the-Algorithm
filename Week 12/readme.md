@@ -39,7 +39,9 @@ I also attempted incorporating using a slider to control the rotating my squares
 
 
 # Potential Usages 
-
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/iPhone%20Mockup.jpg" width ="700" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Crop%20Top%20Hoodie_02.jpg" width ="700" />
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%2012/Poster%20Scene%20Mockup.jpg" width ="700" />
 
 # Reflection
 Knowing nothing about the coding world until this studio, I think it’s fair to say I’ve learned quite a lot, but I’ve since then also learned that the coding world is probably not best suited for me. There was definitely a major learning curve to this studio, but I’m so glad that I now understand a bit more about what it takes to code. I now have a better understanding of how a JSON file operates and how to access the information within through coding. I’ve grasped the basic knowledge of drawing up a sketch and learning how to add different elements such as pixel density, to rotate as well as using mouseX, mouseY function to creating interesting effects and unique generative outcomes. Even though my work is far from what I envisioned it would be during the beginning of the studio, I’m still pretty happy with the outcome. 
