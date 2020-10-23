@@ -1,5 +1,6 @@
 # Week 2
-
+ 
+# Class Overview
 This week was all about Processing! Prior to class I did play with the program, but I honestly had zero clue what I was doing beside changing the numbers around from someone else code. The results were definitely interesting to see and I was intrigued to learn more.  
 
 ### In Class Activity 
