@@ -46,7 +46,7 @@ Also, for the 24hr Challenge I tried to create a set of rules for creating a uni
 
 
 
-# Inspirational Work
+# Inspirational Artist & Projects
 
 **Artist: Jansz Jurek**
 
