@@ -24,3 +24,4 @@ Here I attempted to make changes to the original code to make it more my own. No
 
 So one of my friends sent over this link:  https://receiptify.herokuapp.com/
 It essentially generates a receipt based on your top spotify most listened tracks! This idea was so simple and fun and a great example of a generative project that uses data. 
+<img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%208/medium_term.png" width ="400" />
