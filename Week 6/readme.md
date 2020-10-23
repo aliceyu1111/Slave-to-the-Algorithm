@@ -117,6 +117,8 @@ Here is a simple sketch that I drew out to help with my explanation.
 
 ### Inspirational Artists & Projects
 
+**Artist: Callen Schaub**
+
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%201.png" width ="500" />
 <img src= "https://github.com/aliceyu1111/Slave-to-the-Algorithm/blob/master/Week%206/Callen%20Schaub%202.png" width ="500" />
 
